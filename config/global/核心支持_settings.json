@@ -1,0 +1,68 @@
+{
+  "Enable": true,
+  "RunEveryXTicks": {
+    "Value": 10
+  },
+  "LogDebugInformation": true,
+  "隐藏玩家": false,
+  "隐藏召唤物": false,
+  "谵妄文本": false,
+  "显示普通怪物": false,
+  "显示普通怪物名字": false,
+  "显示魔法怪物": false,
+  "显示魔法怪物名字": false,
+  "显示稀有怪物": false,
+  "显示稀有怪物名字": false,
+  "只显示魔物名字": false,
+  "显示暗金怪物": false,
+  "显示暗金怪物名字": false,
+  "显示NPC名字": false,
+  "不显示隐藏怪物": false,
+  "SizeDefaultIcon": 16.0,
+  "SizeNpcIcon": {
+    "Value": 10
+  },
+  "SizeEntityWhiteIcon": {
+    "Value": 10
+  },
+  "SizeEntityMagicIcon": {
+    "Value": 10
+  },
+  "SizeEntityRareIcon": {
+    "Value": 10
+  },
+  "SizeEntityUniqueIcon": {
+    "Value": 10
+  },
+  "SizeEntityProximityMonsterIcon": {
+    "Value": 10
+  },
+  "SizeBreachChestIcon": {
+    "Value": 10
+  },
+  "SizeHeistChestIcon": {
+    "Value": 30
+  },
+  "SizeChestIcon": {
+    "Value": 10
+  },
+  "AzmeriIcon": {
+    "Value": 10
+  },
+  "AzmeriIcon2": {
+    "Value": 10
+  },
+  "abysschestIcon": {
+    "Value": 10
+  },
+  "ShowSmallChest": false,
+  "SizeSmallChestIcon": {
+    "Value": 10
+  },
+  "SizeMiscIcon": {
+    "Value": 10
+  },
+  "SizeShrineIcon": {
+    "Value": 10
+  }
+}

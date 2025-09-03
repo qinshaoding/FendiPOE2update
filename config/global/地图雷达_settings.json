@@ -1,0 +1,19 @@
+{
+  "DrawMonsters": true,
+  "DrawNpc": true,
+  "IconsOnMinimap": true,
+  "IconsOnLargeMap": true,
+  "SecondaryIconSize": {
+    "Value": 10
+  },
+  "HideSize": {
+    "Value": 1.0
+  },
+  "ZForText": {
+    "Value": -10.0
+  },
+  "只绘制在大地图": true,
+  "多线程": false,
+  "绘制隐藏怪物": false,
+  "Enable": true
+}

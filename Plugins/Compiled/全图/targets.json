@@ -1,0 +1,1718 @@
+{
+  "G1_2": [
+    {
+      "Name": "special",
+      "ExpectedCount": 1,
+      "DisplayName": "皆伐營地"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Slash/HagWitchArena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "腐敗獸群．貝伊拉(+10 冰抗)"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/Clearfell_OldForest_Transition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "葛瑞爾林"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/FallenTreeSlash_out.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "泥沼陋居"
+    }
+  ],
+  "C_G1_2": [
+    {
+      "Name": "special",
+      "ExpectedCount": 1,
+      "DisplayName": "皆伐營地"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Slash/HagWitchArena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "腐敗獸群．貝伊拉(+10%冰抗)"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/Clearfell_OldForest_Transition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "葛瑞爾林"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/FallenTreeSlash_out.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "泥沼陋居"
+    }
+  ],
+  "G1_4": [
+    {
+      "Name": "Metadata/Terrain/Woods/OldForestWoods/Feature/PlantBoss_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "刺荊地穴掘者"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/OldForest_Clearfell_transition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "皆伐"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/OldForestToGrimTangle_02_metatile.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "纏縛陰林"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/redvale_transition_02_oldforest.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "赤谷"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/GrimTangle/areatransitions/GrimtangleTransitionDown_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "攝魂之樹"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/OldForestWoods/Feature/BurnTheWitch_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "忘卻女巫．阿瑞涅"
+    }
+  ],
+  "C_G1_4": [
+    {
+      "Name": "Metadata/Terrain/Woods/OldForestWoods/Feature/PlantBoss_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "刺荊地穴掘者"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/OldForest_Clearfell_transition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "皆伐"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/OldForestToGrimTangle_02_metatile.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "纏縛陰林"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/redvale_transition_02_oldforest.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "赤谷"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/GrimTangle/areatransitions/GrimtangleTransitionDown_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "攝魂之樹"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/OldForestWoods/Feature/BurnTheWitch_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "忘卻女巫．阿瑞涅"
+    }
+  ],
+  "G1_5": [
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/redvale_transition_02_redvale.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "葛瑞爾林"
+    }
+  ],
+  "C_G1_5": [
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/redvale_transition_02_redvale.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "葛瑞爾林"
+    }
+  ],
+  "G1_6": [
+    {
+      "Name": "Metadata/Terrain/Woods/GrimTangle/areatransitions/IntroArea.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "葛瑞爾林"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/GrimTangle/areatransitions/GrimtangleTransitionUp_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "不朽帝國之墓"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/GrimTangle/feature/BossArena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "腐敗的德魯伊"
+    }
+  ],
+  "C_G1_6": [
+    {
+      "Name": "Metadata/Terrain/Woods/GrimTangle/areatransitions/IntroArea.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "葛瑞爾林"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/GrimTangle/areatransitions/GrimtangleTransitionUp_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "不朽帝國之墓"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/GrimTangle/feature/BossArena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "腐敗的德魯伊"
+    }
+  ],
+  "G1_7": [
+    {
+      "Name": "Metadata/Terrain/Woods/Graveyard/Feature/GraveyardArena.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "竞技场 / 獵場"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Graveyard/Feature/GraveyardToGrimTangle_transition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "纏縛陰林"
+    },
+    {
+      "Name": "tomb_transition",
+      "ExpectedCount": 1,
+      "DisplayName": "配偶的墓室"
+    },
+    {
+      "Name": "mausoleum_transition",
+      "ExpectedCount": 1,
+      "DisplayName": "政務官陵墓"
+    }
+  ],
+  "C_G1_7": [
+    {
+      "Name": "Metadata/Terrain/Woods/Graveyard/Feature/GraveyardArena.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "竞技场 / 獵場"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Graveyard/Feature/GraveyardToGrimTangle_transition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "纏縛陰林"
+    },
+    {
+      "Name": "tomb_transition",
+      "ExpectedCount": 1,
+      "DisplayName": "配偶的墓室"
+    },
+    {
+      "Name": "mausoleum_transition",
+      "ExpectedCount": 1,
+      "DisplayName": "政務官陵墓"
+    }
+  ],
+  "G1_8": [
+    {
+      "Name": "Metadata/Terrain/Woods/GraveyardDungeons/Transitions/Transition_Mausoleum_to_Graveyard_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "不朽帝國之墓"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/GraveyardDungeons/Transitions/Mausoleum_SecretEntrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "被遺忘的財富"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/GraveyardDungeons/Feature/MausoleumBoss_ArenaFloor.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "永恆政務官．德雷文"
+    }
+  ],
+  "C_G1_8": [
+    {
+      "Name": "Metadata/Terrain/Woods/GraveyardDungeons/Transitions/Transition_Mausoleum_to_Graveyard_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "不朽帝國之墓"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/GraveyardDungeons/Transitions/Mausoleum_SecretEntrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "被遺忘的財富"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/GraveyardDungeons/Feature/MausoleumBoss_ArenaFloor.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "永恆政務官．德雷文"
+    }
+  ],
+  "G1_9": [
+    {
+      "Name": "Metadata/Terrain/Woods/GraveyardDungeons/Feature/TombBoss_ArenaFloor.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "政務官配偶．阿席妮雅"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/GraveyardDungeons/Feature/Tomb_Landmark_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "戰亂中的寶藏"
+    }
+  ],  
+  "C_G1_9": [
+    {
+      "Name": "Metadata/Terrain/Woods/GraveyardDungeons/Feature/TombBoss_ArenaFloor.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "政務官配偶．阿席妮雅"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/GraveyardDungeons/Feature/Tomb_Landmark_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "戰亂中的寶藏"
+    }
+  ],    
+  "G1_11": [
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/CliffRoad_Cnr_transition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "不朽帝國之墓"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/CanopyRoadTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "弗雷索恩"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Features_Cairns/CairnBrecon.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "鴉鈴"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Features_Cairns/DolmenDeAzutan_03.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "鴉鈴 競技場 (+2 天賦點)"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/Bramble_Cnr_transition_01.tdt",
+      "ExpectedCount": 2,
+      "DisplayName": "奧格姆農地"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/HuntingGrounds/RitualClearing01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "驅靈儀式"
+    }
+  ],
+  "C_G1_11": [
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/CliffRoad_Cnr_transition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "不朽帝國之墓"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/CanopyRoadTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "弗雷索恩"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Features_Cairns/CairnBrecon.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "鴉鈴"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Features_Cairns/DolmenDeAzutan_03.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "鴉鈴 競技場 (+2 天賦點)"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/Bramble_Cnr_transition_01.tdt",
+      "ExpectedCount": 2,
+      "DisplayName": "奧格姆農地"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/HuntingGrounds/RitualClearing01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "驅靈儀式"
+    }
+  ],
+  "G1_12": [
+    {
+      "Name": "Metadata/Terrain/Woods/Canopy/Features/CanopySpireTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "獵場"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Canopy/Features/CanopyArena.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "迷霧之王 (+30 精魂)"
+    }
+  ],
+  "C_G1_12": [
+    {
+      "Name": "Metadata/Terrain/Woods/Canopy/Features/CanopySpireTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "獵場"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Canopy/Features/CanopyArena.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "迷霧之王"
+    }
+  ],
+  "G1_13_1": [
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/cliff_gate_transition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "獵場"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Village/RoadFields/Feature/YurtUna_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "烏娜的魯特琴 (+2 天賦)"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Village/RoadFields/Feature/RoadVillage_Areatransition.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "奧格姆村"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Village/RoadFields/Bosstile_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "麥田園"
+    }
+  ],
+  "C_G1_13_1": [
+    {
+      "Name": "Metadata/Terrain/Woods/AreaTransitions/cliff_gate_transition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "獵場"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Village/RoadFields/Feature/YurtUna_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "烏娜的魯特琴 (+2 天賦)"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Village/RoadFields/Feature/RoadVillage_Areatransition.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "奧格姆村"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Village/RoadFields/Bosstile_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "麥田園"
+    }
+  ],
+  "G1_13_2": [
+    {
+      "Name": "Metadata/Terrain/Woods/Village/RoadFields/Feature/RoadVillage_Areatransition_village_side.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "奧格姆農地"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Village/Huts/VillageArena_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "劊子手"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Village/Blacksmith_Large.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "蘭利的工具（拆解工作台）"
+    }
+  ],
+  "C_G1_13_2": [
+    {
+      "Name": "Metadata/Terrain/Woods/Village/RoadFields/Feature/RoadVillage_Areatransition_village_side.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "奧格姆農地"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Village/Huts/VillageArena_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "劊子手"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Village/Blacksmith_Large.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "蘭利的工具"
+    }
+  ],
+  "G1_14": [
+    {
+      "Name": "Metadata/Terrain/Woods/Village/Huts/VillageArena_02_courtyard_side.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "入口"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/CourtyardFeatures/Manor_GrandEntrance_Transition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "奧格姆宅第"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/CourtyardFeatures/Gallows_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "絞刑架"
+    }
+  ],
+  "C_G1_14": [
+    {
+      "Name": "Metadata/Terrain/Woods/Village/Huts/VillageArena_02_courtyard_side.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "入口"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/CourtyardFeatures/Manor_GrandEntrance_Transition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "奧格姆宅第"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/CourtyardFeatures/Gallows_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "絞刑架"
+    }
+  ],
+  "G1_15": [
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/Interior/Features/Manor_Entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "宅第壁壘"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/Interior/Features/ThickWall_StairsDown_Cc_01.tdt",
+      "ExpectedCount": 2,
+      "DisplayName": "下楼梯"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/Features/Chapel_boss_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "存活儀式．燭光 (+20 最大生命)"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/Interior/Features/ThickWall_OpenDoor_01.tdt",
+      "ExpectedCount": 5,
+      "DisplayName": "門"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/Interior/Features/ThickWall_AreaTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "上樓梯"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/Features/ArenaTop_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "狼王寶座"
+    }
+  ],
+  "C_G1_15": [
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/Interior/Features/Manor_Entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "宅第壁壘"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/Interior/Features/ThickWall_StairsDown_Cc_01.tdt",
+      "ExpectedCount": 2,
+      "DisplayName": "下楼梯"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/Features/Chapel_boss_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "存活儀式．燭光 (+8% 最大生命)"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/Interior/Features/ThickWall_OpenDoor_01.tdt",
+      "ExpectedCount": 5,
+      "DisplayName": "門"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/Interior/Features/ThickWall_AreaTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "上樓梯"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Manor/Features/ArenaTop_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "狼王寶座"
+    }
+  ],
+  "G2_1": [
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/DunePlatform/Dune_Platform_Feature_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "掠奪者懸崖"
+    }
+  ],
+  "C_G2_1": [
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/DunePlatform/Dune_Platform_Feature_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "掠奪者懸崖"
+    }
+  ],
+  "G2_10_1": [
+    {
+      "Name": "Metadata/Terrain/Desert/Quarry/Features/Maraketh_Entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜拉車隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Quarry/Features/MiningShaftCrane.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "法里登鑄造廠"
+    }
+  ],
+  "C_G2_10_1": [
+    {
+      "Name": "Metadata/Terrain/Desert/Quarry/Features/Maraketh_Entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜拉車隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Quarry/Features/MiningShaftCrane.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "法里登鑄造廠"
+    }
+  ],
+  "G2_10_2": [
+    {
+      "Name": "Metadata/Terrain/Desert/Quarry/Features/MiningShaftFloor.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "莫頓挖石場"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Foundry/Features/Foundry_Bossroom_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "軍火庫"
+    }
+  ],
+  "C_G2_10_2": [
+    {
+      "Name": "Metadata/Terrain/Desert/Quarry/Features/MiningShaftFloor.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "莫頓挖石場"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Foundry/Features/Foundry_Bossroom_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "軍火庫"
+    }
+  ],
+  "G2_2": [
+    {
+      "Name": "Metadata/Terrain/Desert/CavePath/Features/cave_entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜拉車隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/CavePath/Features/Thickwall_Cave_Entrance.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "哈拉妮關口"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/TraitorsPassage/TraitorsPassage_Arena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "被遺忘的囚犯．帕拉薩"
+    }
+  ],
+  "C_G2_2": [
+    {
+      "Name": "Metadata/Terrain/Desert/CavePath/Features/cave_entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜拉車隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/CavePath/Features/Thickwall_Cave_Entrance.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "哈拉妮關口"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/TraitorsPassage/TraitorsPassage_Arena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "被遺忘的囚犯．帕拉薩"
+    }
+  ],
+  "G2_3": [
+    {
+      "Name": "Metadata/Terrain/Desert/AreaTransitions/Ruin_PassageStair_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "叛徒之路"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Gates/Features/boss_arena.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "虫巢塔"
+    }
+  ],
+  "C_G2_3": [
+    {
+      "Name": "Metadata/Terrain/Desert/AreaTransitions/Ruin_PassageStair_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "叛徒之路"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Gates/Features/boss_arena.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "虫巢塔"
+    }
+  ],
+  "G2_4_1": [
+    {
+      "Name": "Metadata/Terrain/Desert/BuriedCity/Features/Cityroof_Entrance.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜拉車隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/BuriedCity/Features/Keth_Stairs_RuinEntrance.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "凱斯地底城"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/BuriedCity/Features/Keth_SinkholeTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "被掠奪的金庫"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/BuriedCity/Features/QueenKabalaRoom_01_meta01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "干擾女王．卡巴拉 (+2 天賦)"
+    }
+  ],
+  "C_G2_4_1": [
+    {
+      "Name": "Metadata/Terrain/Desert/BuriedCity/Features/Cityroof_Entrance.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜拉車隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/BuriedCity/Features/Keth_Stairs_RuinEntrance.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "凱斯地底城"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/BuriedCity/Features/Keth_SinkholeTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "被掠奪的金庫"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/BuriedCity/Features/QueenKabalaRoom_01_meta01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "干擾女王．卡巴拉 (+2 天賦)"
+    }
+  ],
+  "G2_4_2": [
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Features/KethEntrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "凱斯城"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_StairsDown_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "掩埋神殿"
+    }
+  ],
+  "C_G2_4_2": [
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Features/KethEntrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "凱斯城"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_StairsDown_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "掩埋神殿"
+    }
+  ],
+  "G2_4_3": [
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_StairsUp_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "失落之城"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Floor/Floortrim_BossMedallion_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "元素貢品"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Floor/ThickWall_TransitionWide_St_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "掩埋神殿"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_BossTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "凱斯之心"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Arena/CentrePattern_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "前廳"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Arena/Thickwall_GoddessStatue_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "水之女神"
+    }
+  ],
+  "C_G2_4_3": [
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_StairsUp_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "失落之城"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Floor/Floortrim_BossMedallion_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "元素貢品"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Floor/ThickWall_TransitionWide_St_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "掩埋神殿"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_BossTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "凱斯之心"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Arena/CentrePattern_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "前廳"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Maraketh/Arena/Thickwall_GoddessStatue_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "水之女神"
+    }
+  ],
+  "G2_5_1": [
+    {
+      "Name": "Metadata/Terrain/Desert/Badlands/Features/Badlands_Entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜拉車隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Badlands/Features/Landmark_feature_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "化石紀念碑"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Badlands/Features/AreaTransition_BadlandsToPits_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "骨坑"
+    }
+  ],
+  "C_G2_5_1": [
+    {
+      "Name": "Metadata/Terrain/Desert/Badlands/Features/Badlands_Entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜拉車隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Badlands/Features/Landmark_feature_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "化石紀念碑"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Badlands/Features/AreaTransition_BadlandsToPits_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "骨坑"
+    }
+  ],
+  "G2_5_2": [
+    {
+      "Name": "Metadata/Terrain/Desert/Badlands/Features/AreaTransition_BadlandsToPits_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "乳齒象惡地"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Badlands/Features/MastodonArena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "黑矿坑"
+    }
+  ],
+  "C_G2_5_2": [
+    {
+      "Name": "Metadata/Terrain/Desert/Badlands/Features/AreaTransition_BadlandsToPits_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "乳齒象惡地"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Badlands/Features/MastodonArena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "黑矿坑"
+    }
+  ],
+  "G2_6": [
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/Titans/Feature/TitanQuest01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "古代封印"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/Titans/Feature/TitanQuest02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "古代封印"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/Titans/Feature/TitanQuest03.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "古代封印"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/Titans/Feature/GrottoExit01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "泰坦石窟"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/Titans/Feature/CartEntrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜拉車隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/Titans/Feature/titan_valley_boss_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "獎章"
+    }
+  ],
+  "C_G2_6": [
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/Titans/Feature/TitanQuest01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "古代封印"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/Titans/Feature/TitanQuest02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "古代封印"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/Titans/Feature/TitanQuest03.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "古代封印"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/Titans/Feature/GrottoExit01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "泰坦石窟"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/Titans/Feature/CartEntrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜拉車隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/UnwalkableDune/Titans/Feature/titan_valley_boss_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "獎章"
+    }
+  ],
+  "G2_7": [
+    {
+      "Name": "Metadata/Terrain/Desert/CaveTitans/Features/Staircase_Entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "泰坦之谷"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/CaveTitans/Features/Titan_Arena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "審判高臺"
+    }
+  ],
+  "C_G2_7": [
+    {
+      "Name": "Metadata/Terrain/Desert/CaveTitans/Features/Staircase_Entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "泰坦之谷"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/CaveTitans/Features/Titan_Arena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "審判高臺"
+    }
+  ],
+  "G2_8": [
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Base/PillarBase_CartTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜拉車隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Base/Arena/bossroom_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "被遺忘的尸體"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Base/PillarBaseWide_StairsUp_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "悼念之路"
+    },
+    {
+      "Name": "Metadata/Chests/SpireCorpseChest",
+      "ExpectedCount": 1,
+      "DisplayName": "墮落的德卡拉 (+2 天賦)",
+      "TargetType": "Entity"
+    }
+  ],
+  "C_G2_8": [
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Base/PillarBase_CartTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜拉車隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Base/Arena/bossroom_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "被遺忘的尸體"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Base/PillarBaseWide_StairsUp_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "悼念之路"
+    },
+    {
+      "Name": "Metadata/Chests/SpireCorpseChest",
+      "ExpectedCount": 1,
+      "DisplayName": "墮落的德卡拉 (+2 天賦)",
+      "TargetType": "Entity"
+    }
+  ],
+  "G2_9_1": [
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Lower/Wide/PillarLowerWide_StairsDown_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "戴斯哈"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Upper/PillarUpper_StairsUp_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "戴斯哈尖塔"
+    }
+  ],
+  "C_G2_9_1": [
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Lower/Wide/PillarLowerWide_StairsDown_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "戴斯哈"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Upper/PillarUpper_StairsUp_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "戴斯哈尖塔"
+    }
+  ],
+  "G2_9_2": [
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Tall/PillarTall_StairsDown_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "悼念之路"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Tops/PillarTopWide_Shrine_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "雙子 (+10 電抗)"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Tops/PillarArena.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "競技場"
+    }
+  ],
+  "C_G2_9_2_": [
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Tall/PillarTall_StairsDown_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "悼念之路"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Tops/PillarTopWide_Shrine_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "雙子 (+10 電抗)"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/Pillars/Tops/PillarArena.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "競技場"
+    }
+  ],
+  "G2_12_1": [
+    {
+      "Name": "Metadata/Terrain/Desert/FarudinCarts/cart_walkway_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "無畏隊先鋒"
+    }
+  ],
+  "C_G2_12_1": [
+    {
+      "Name": "Metadata/Terrain/Desert/FarudinCarts/cart_walkway_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "無畏隊先鋒"
+    }
+  ],
+  "G2_12_2": [
+    {
+      "Name": "Metadata/Terrain/Desert/FarudinCarts/cart_walkway_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "無畏隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/FarudinCarts/Features/DreadnoughtArena_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "法里敦王座"
+    }
+  ],
+  "C_G2_12_2": [
+    {
+      "Name": "Metadata/Terrain/Desert/FarudinCarts/cart_walkway_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "無畏隊"
+    },
+    {
+      "Name": "Metadata/Terrain/Desert/FarudinCarts/Features/DreadnoughtArena_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "法里敦王座"
+    }
+  ],
+  "G2_13": [
+    {
+      "Name": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Feature/pedestal_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "遺跡祭壇"
+    }
+  ],
+  "C_G2_13": [
+    {
+      "Name": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Feature/pedestal_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "遺跡祭壇"
+    }
+  ],
+  "G3_1": [
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/SandToWater/Feature/EntranceCaravanFord_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "小型城镇"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/SandsweptMarsh/bossman.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "污穢儀式"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Fills/JungleGroundPuddle_04.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "奥罗克篝火（工匠石）"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/SandsweptMarsh/marsh_exit.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "高地神塔營地"
+    }
+  ],
+  "C_G3_1": [
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/SandToWater/Feature/EntranceCaravanFord_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "小型城镇"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/SandsweptMarsh/bossman.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "污穢儀式"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Fills/JungleGroundPuddle_04.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "奥罗克篝火（工匠石）"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/SandsweptMarsh/marsh_exit.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "高地神塔營地"
+    }
+  ],
+  "G3_2_1": [
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/JungleToWaterways_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "叢林遺跡"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/AntHill/AntHollow/hollow_StSW_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "幼蟲谷地"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Feature/Jungle_WaterwayAltar_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "水道機械裝置"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Bog/AreaTransition/EntranceBog_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿札克泥沼"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/JungleDepths_to_ChimeralWetlands.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "龍蜥濕地"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Waterway/Jungle_Waterway_Ramp_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "瑪特蘭水道"
+    }
+  ],
+  "C_G3_2_1": [
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/JungleToWaterways_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "叢林遺跡"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/AntHill/AntHollow/hollow_StSW_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "幼蟲谷地"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Feature/Jungle_WaterwayAltar_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "水道機械裝置"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Bog/AreaTransition/EntranceBog_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿札克泥沼"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/JungleDepths_to_ChimeralWetlands.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "龍蜥濕地"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Waterway/Jungle_Waterway_Ramp_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "瑪特蘭水道"
+    }
+  ],
+  "G3_2_2": [
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Feature/Jungle_WaterwaysLever_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "水域操縱桿"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/CvWW_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "纳拉格的小屋"
+    }
+  ],
+  "C_G3_2_2": [
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Feature/Jungle_WaterwaysLever_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "水域操縱桿"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/CvWW_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "纳拉格的小屋"
+    }
+  ],
+  "G3_3": [
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/JungleDepths_to_Town.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "高地神塔營地"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/JungleDepths_to_SnakePit.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "劇毒墓穴"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/JungleToWaterways_01_reverse.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "感染荒地"
+    },
+    {
+      "Name": "Metadata/Monsters/Quadrilla/Objects/BossRoomMinimapIcon",
+      "ExpectedCount": 1,
+      "DisplayName": "神威銀拳(+2 天賦)",
+      "TargetType": "Entity"
+    }
+  ],
+  "C_G3_3": [
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/JungleDepths_to_Town.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "高地神塔營地"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/JungleDepths_to_SnakePit.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "劇毒墓穴"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/JungleToWaterways_01_reverse.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "感染荒地"
+    },
+    {
+      "Name": "Metadata/Monsters/Quadrilla/Objects/BossRoomMinimapIcon",
+      "ExpectedCount": 1,
+      "DisplayName": "神威銀拳(+2 天賦)",
+      "TargetType": "Entity"
+    }
+  ],
+  "G3_4": [
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/SnakePit_to_JungleDepths.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "叢林遺跡"
+    },
+    {
+      "Name": "Metadata/Chests/QuestChests/SnakePit/SnakeLadyPotionChest",
+      "ExpectedCount": 1,
+      "DisplayName": "毒藥瓶 (特殊獎勵)",
+      "TargetType": "Entity"
+    }
+  ],
+  "C_G3_4": [
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/SnakePit_to_JungleDepths.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "叢林遺跡"
+    },
+    {
+      "Name": "Metadata/Chests/QuestChests/SnakePit/SnakeLadyPotionChest",
+      "ExpectedCount": 1,
+      "DisplayName": "毒藥瓶 (特殊獎勵)",
+      "TargetType": "Entity"
+    }
+  ],
+  "G3_5": [
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/ChimeralWetlands_to_JungleDepths.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "感染荒地"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/ChimeralJungle_to_ChaosTemple.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "渾沌試煉所"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/Observatory_Entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "致命巢穴"
+    }
+  ],
+  "C_G3_5": [
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/ChimeralWetlands_to_JungleDepths.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "感染荒地"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/ChimeralJungle_to_ChaosTemple.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "渾沌試煉所"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/Observatory_Entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "致命巢穴"
+    }
+  ],
+  "G3_6_1": [
+    {
+      "Name": "Metadata/Terrain/Dungeon/NextFeatures/dungeon_door_thin_boss.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "忘卻之室（+10 火抗）"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/NextFeatures/Machinarium_Entrance_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "吉卡尼的聖域"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/NextFeatures/dungeon_cave_v01_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "過場"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/NextStairs/dungeon_stairs_straight_v01_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "樓梯処"
+    }
+  ],
+  "C_G3_6_1": [
+    {
+      "Name": "Metadata/Terrain/Dungeon/NextFeatures/dungeon_door_thin_boss.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "忘卻之室（+10 火抗）"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/NextFeatures/Machinarium_Entrance_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "吉卡尼的聖域"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/NextFeatures/dungeon_cave_v01_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "過場"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/NextStairs/dungeon_stairs_straight_v01_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "樓梯処"
+    }
+  ],
+  "G3_6_2": [
+    {
+      "Name": "Metadata/Terrain/Dungeon/Machinarium/BossWall01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "Boss"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/VaalInterior/VaalGenerator/VaalGenerator.tdt",
+      "ExpectedCount": 2,
+      "DisplayName": "發電機"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/NextFeatures/VaalCorruptionAltar.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "腐化祭壇"
+    }
+  ],
+  "C_G3_6_2": [
+    {
+      "Name": "Metadata/Terrain/Dungeon/Machinarium/BossWall01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "Boss"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/VaalInterior/VaalGenerator/VaalGenerator.tdt",
+      "ExpectedCount": 2,
+      "DisplayName": "發電機"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/NextFeatures/VaalCorruptionAltar.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "腐化祭壇"
+    }
+  ],
+  "G3_7": [
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Bog/AreaTransition/EntranceBog_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "感染荒地"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Bog/Features/BurningWitchArena.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "沼澤女巫．尹娜杜克 (+30 精魂)"
+    }
+  ],
+  "C_G3_7": [
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Bog/AreaTransition/EntranceBog_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "感染荒地"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/JungleExterior/Bog/Features/BurningWitchArena.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "沼澤女巫．尹娜杜克 (+40 精魂)"
+    }
+  ],
+  "G3_8": [
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/SunkenCityPresent/SunkenCityToTown_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "高地神塔營地"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/SunkenCityPresent/jungle_pyramid_entrance_vault_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "熔岩寶庫"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/SunkenCityPresent/jungle_pyramid_entrance_atziri_03.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "污垢頂峰"
+    }
+  ],
+  "C_G3_8": [
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/SunkenCityPresent/SunkenCityToTown_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "高地神塔營地"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/SunkenCityPresent/jungle_pyramid_entrance_vault_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "熔岩寶庫"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/SunkenCityPresent/jungle_pyramid_entrance_atziri_03.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "污垢頂峰"
+    }
+  ],
+  "G3_9": [
+    {
+      "Name": "Metadata/Terrain/Dungeon/TreasureVault/BossChannel_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "冶煉師範．梅克圖 (重鑄臺)"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/TreasureVault/BrutalistThickwall/Brutal_Entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "淹沒之城"
+    }
+  ],
+  "C_G3_9": [
+    {
+      "Name": "Metadata/Terrain/Dungeon/TreasureVault/BossChannel_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "冶煉師範．梅克圖"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/TreasureVault/BrutalistThickwall/Brutal_Entrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "淹沒之城"
+    }
+  ],
+  "G3_11": [
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Outerwall/AggoratOuterArena_Present_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "大锅守护者"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/Present/AggoratToSunkenCity_Present_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "記錄點"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/AggoratArena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "污垢女王"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/Present/AggoratToSunkenCity_Present_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "淹没之城"
+    }
+  ],
+  "C_G3_11": [
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Outerwall/AggoratOuterArena_Present_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "大锅守护者"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/Present/AggoratToSunkenCity_Present_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "記錄點"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/AggoratArena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "污垢女王"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/Present/AggoratToSunkenCity_Present_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "淹没之城"
+    }
+  ],
+  "G3_12": [
+    {
+      "Name": "Metadata/Terrain/Dungeon/Ziggurat/ziggurat_to_sunkencity_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "高地神塔營地"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/Ziggurat/ziggurat_outerwall_end_stairsup_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "樓梯上"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/Ziggurat/ziggurat_outerwall_end_stairsup_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "樓梯上"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/Ziggurat/ziggurat_outerwall_end_stairsdown_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "樓梯下"
+    }
+  ],
+  "C_G3_12": [
+    {
+      "Name": "Metadata/Terrain/Dungeon/Ziggurat/ziggurat_to_sunkencity_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "高地神塔營地"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/Ziggurat/ziggurat_outerwall_end_stairsup_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "樓梯上"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/Ziggurat/ziggurat_outerwall_end_stairsup_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "樓梯上"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/Ziggurat/ziggurat_outerwall_end_stairsdown_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "樓梯下"
+    }
+  ],
+  "*": [
+    {
+      "Name": "waypoint",
+      "ExpectedCount": 1,
+      "DisplayName": "記錄點"
+    },
+    {
+      "Name": "Metadata/Terrain/Leagues/Ritual/RitualRuneObject",
+      "ExpectedCount": 5,
+      "DisplayName": "驱灵祭坛",
+      "TargetType": "Entity"
+    },	
+    {
+      "Name": "Pinnacle",
+      "ExpectedCount": 1,
+      "DisplayName": "Test",
+    },
+    {
+      "Name": "Metadata/MiscellaneousObjects/Breach/BreachObject",
+      "ExpectedCount": 20,
+      "DisplayName": "裂隙",
+      "TargetType": "Entity"
+    },	
+  ],
+  "G3_14": [
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/SunkenCity/jungle_pyramid_entrance_atziri_01_metatile.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿戈拉"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/SunkenCity/jungle_town_lower_entrance_past_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "城镇"
+    }
+  ],
+  "C_G3_14": [
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/SunkenCity/jungle_pyramid_entrance_atziri_01_metatile.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿戈拉"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/SunkenCity/jungle_town_lower_entrance_past_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "城镇"
+    }
+  ],
+  "G3_16": [
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/Aggorat_AtziriAltar_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "祭壇"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/AggoratArena_Past_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "神像 1"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Outerwall/AggoratOuterArena_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "献祭匕首 (+2 天賦)"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/DoryanisSanctumEntrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "漆黑密室"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/AggoratToSunkenCity_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "奧札爾"
+    }
+  ],
+  "C_G3_16_": [
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/Aggorat_AtziriAltar_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "祭壇"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/AggoratArena_Past_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "神像1"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Outerwall/AggoratOuterArena_02.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "献祭匕首 (+2 天賦)"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/DoryanisSanctumEntrance_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "漆黑密室"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/Aggorat/Features/AggoratToSunkenCity_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "奧札爾"
+    }
+  ],
+  "G3_17": [
+    {
+      "Name": "Metadata/Terrain/Dungeon/DoryanisSanctum/Features/Doryani_Arena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "競技場"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/DoryanisSanctumEntranceInt_01_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿戈拉"
+    }
+  ],
+  "C_G3_17": [
+    {
+      "Name": "Metadata/Terrain/Dungeon/DoryanisSanctum/Features/Doryani_Arena_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "競技場"
+    },
+    {
+      "Name": "Metadata/Terrain/Jungle/AreaTransitions/DoryanisSanctumEntranceInt_01_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "阿戈拉"
+    }
+  ],
+  "Sanctum_*": [
+    {
+      "Name": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/SanctumGenericLever",
+      "ExpectedCount": 99,
+      "DisplayName": "杠杆",
+      "TargetType": "Entity"
+    },
+    {
+      "Name": "Metadata/Monsters/MarakethSanctumTrial/Hazards/HourglassLethal",
+      "ExpectedCount": 99,
+      "DisplayName": "水晶",
+      "TargetType": "Entity"
+    }
+  ],
+  "MapLostTowers": [
+    {
+        "Name": "Metadata/Terrain/Desert/Pillars/Upper/PillarUpper_StairsUp_01.tdt",
+        "ExpectedCount": 1,
+        "DisplayName": "樓梯"
+    }
+  ],
+  "MapVaalFoundry_NoBoss": [
+    {
+        "Name": "BossChannel",
+        "ExpectedCount": 1,
+        "DisplayName": "BOSS"
+    }
+  ]
+}

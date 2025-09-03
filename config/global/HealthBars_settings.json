@@ -1,0 +1,533 @@
+{
+  "Enable": true,
+  "IgnoreUiElementVisibility": false,
+  "ShowInTown": false,
+  "ShowInHideout": true,
+  "EnableAbsolutePlayerBarPositioning": false,
+  "PlayerBarPosition": {
+    "Value": {
+      "X": 1000.0,
+      "Y": 1000.0,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  },
+  "SmoothingFactor": {
+    "Value": 0.0
+  },
+  "PlayerSmoothingFactor": {
+    "Value": 1.0
+  },
+  "GlobalZOffset": {
+    "Value": 0
+  },
+  "PlayerZOffset": {
+    "Value": 0
+  },
+  "PlaceBarRelativeToGroundLevel": false,
+  "PlacePlayerBarRelativeToGroundLevel": false,
+  "DrawDistanceLimit": {
+    "Value": 133
+  },
+  "ShowMinionOnlyWhenBelowHp": {
+    "Value": 50
+  },
+  "DpsEstimateDuration": {
+    "Value": 2000
+  },
+  "CullingStrike": null,
+  "HasCullingStrike": false,
+  "CullingThreshold": {
+    "Value": 0
+  },
+  "CombatDamageColor": "ff0000ff",
+  "CombatHealColor": "008000ff",
+  "ResizeBarsToFitText": true,
+  "UseShadedTexture": true,
+  "UseOldConfigFormat": false,
+  "BossOverlaySettings": {
+    "Show": true,
+    "ItemSpacing": {
+      "Value": 100
+    },
+    "BarHeight": {
+      "Value": 20
+    },
+    "Width": {
+      "Value": 500
+    },
+    "Location": {
+      "Value": {
+        "X": 10.0,
+        "Y": 300.0,
+        "IsNormalized": false,
+        "IsZero": false
+      }
+    },
+    "ShowCastBarStageNames": false,
+    "ShowMonsterNames": true,
+    "MaxEntries": {
+      "Value": 5
+    }
+  },
+  "CommonCastBarSettings": {
+    "MaxSkillNameLength": {
+      "Value": 5
+    },
+    "MaxSkillNameLengthForBossOverlay": {
+      "Value": 20
+    },
+    "ShowNextStageName": true,
+    "ShowNextStageNameInBossOverlay": true,
+    "DebugShowAllSkillStages": false,
+    "CutOffBackswing": true
+  },
+  "Self": {
+    "Show": true,
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "ff008000",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "00000000",
+    "TextColor": "ffffffff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0,
+        "IsNormalized": true,
+        "IsZero": false
+      }
+    },
+    "ShowDps": false,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": true,
+    "CombineLifeAndMana": false,
+    "ManaProtectsLife": false,
+    "EsBarHeight": {
+      "Value": 0.333333343
+    },
+    "IncludeInBossOverlay": false,
+    "TextFormat": {
+      "Value": "{percent}%"
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
+    }
+  },
+  "UniqueEnemy": {
+    "Show": true,
+    "Width": {
+      "Value": 200.0
+    },
+    "Height": {
+      "Value": 25.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "ff00a5ff",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "ff00a5ff",
+    "TextColor": "ff99ff66",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0,
+        "IsNormalized": true,
+        "IsZero": false
+      }
+    },
+    "ShowDps": true,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": true,
+    "CombineLifeAndMana": false,
+    "ManaProtectsLife": false,
+    "EsBarHeight": {
+      "Value": 0.333333343
+    },
+    "IncludeInBossOverlay": true,
+    "TextFormat": {
+      "Value": "{percent}% {current}/{total}"
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
+    }
+  },
+  "RareEnemy": {
+    "Show": true,
+    "Width": {
+      "Value": 125.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "ff19fff4",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "ff19fff4",
+    "TextColor": "ff99ff66",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0,
+        "IsNormalized": true,
+        "IsZero": false
+      }
+    },
+    "ShowDps": true,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": true,
+    "CombineLifeAndMana": false,
+    "ManaProtectsLife": false,
+    "EsBarHeight": {
+      "Value": 0.333333343
+    },
+    "IncludeInBossOverlay": false,
+    "TextFormat": {
+      "Value": "{percent}% {current}/{total}"
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
+    }
+  },
+  "MagicEnemy": {
+    "Show": true,
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 15.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "ffff8888",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "ffff8888",
+    "TextColor": "ff99ff66",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0,
+        "IsNormalized": true,
+        "IsZero": false
+      }
+    },
+    "ShowDps": false,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": true,
+    "CombineLifeAndMana": false,
+    "ManaProtectsLife": false,
+    "EsBarHeight": {
+      "Value": 0.333333343
+    },
+    "IncludeInBossOverlay": false,
+    "TextFormat": {
+      "Value": ""
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
+    }
+  },
+  "NormalEnemy": {
+    "Show": true,
+    "Width": {
+      "Value": 75.0
+    },
+    "Height": {
+      "Value": 10.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "ff0000ff",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "00000000",
+    "TextColor": "ff66ff66",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0,
+        "IsNormalized": true,
+        "IsZero": false
+      }
+    },
+    "ShowDps": false,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": true,
+    "CombineLifeAndMana": false,
+    "ManaProtectsLife": false,
+    "EsBarHeight": {
+      "Value": 0.333333343
+    },
+    "IncludeInBossOverlay": false,
+    "TextFormat": {
+      "Value": ""
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
+    }
+  },
+  "Minions": {
+    "Show": true,
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "ff90ee90",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "00000000",
+    "TextColor": "ffffffff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0,
+        "IsNormalized": true,
+        "IsZero": false
+      }
+    },
+    "ShowDps": false,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": true,
+    "CombineLifeAndMana": false,
+    "ManaProtectsLife": false,
+    "EsBarHeight": {
+      "Value": 0.333333343
+    },
+    "IncludeInBossOverlay": false,
+    "TextFormat": {
+      "Value": ""
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
+    }
+  },
+  "Players": {
+    "Show": true,
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "ff008000",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "00000000",
+    "TextColor": "ffffffff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0,
+        "IsNormalized": true,
+        "IsZero": false
+      }
+    },
+    "ShowDps": false,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": true,
+    "CombineLifeAndMana": false,
+    "ManaProtectsLife": false,
+    "EsBarHeight": {
+      "Value": 0.333333343
+    },
+    "IncludeInBossOverlay": false,
+    "TextFormat": {
+      "Value": "{percent}%"
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
+    }
+  }
+}

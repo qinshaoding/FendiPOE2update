@@ -1,0 +1,239 @@
+{
+  "Enable": true,
+  "多线程": false,
+  "最大圆圈绘制距离": {
+    "Value": 120
+  },
+  "NormalMonster": {
+    "Enable": true,
+    "UnitType": 1,
+    "Colors": {
+      "MapColor": "94, 255, 255, 255",
+      "MapAttackColor": "Red",
+      "WorldColor": "94, 255, 255, 255",
+      "WorldAttackColor": "Red"
+    },
+    "World": {
+      "Enable": true,
+      "DrawAttack": false,
+      "DrawAttackEndPoint": true,
+      "DrawDestination": true,
+      "DrawDestinationEndPoint": false,
+      "DrawLine": false,
+      "AlwaysRenderWorldUnit": true,
+      "DrawBoundingBox": false,
+      "DrawFilledCircle": false,
+      "RenderCircleThickness": 3,
+      "LineThickness": 5
+    },
+    "Map": {
+      "Enable": false,
+      "DrawAttack": true,
+      "DrawDestination": true,
+      "LineThickness": 1
+    }
+  },
+  "MagicMonster": {
+    "Enable": true,
+    "UnitType": 2,
+    "Colors": {
+      "MapColor": "176, 43, 120, 255",
+      "MapAttackColor": "144, 255, 0, 0",
+      "WorldColor": "176, 43, 120, 255",
+      "WorldAttackColor": "144, 255, 0, 0"
+    },
+    "World": {
+      "Enable": true,
+      "DrawAttack": false,
+      "DrawAttackEndPoint": true,
+      "DrawDestination": true,
+      "DrawDestinationEndPoint": false,
+      "DrawLine": false,
+      "AlwaysRenderWorldUnit": true,
+      "DrawBoundingBox": false,
+      "DrawFilledCircle": false,
+      "RenderCircleThickness": 3,
+      "LineThickness": 5
+    },
+    "Map": {
+      "Enable": false,
+      "DrawAttack": true,
+      "DrawDestination": true,
+      "LineThickness": 1
+    }
+  },
+  "RareMonster": {
+    "Enable": true,
+    "UnitType": 3,
+    "Colors": {
+      "MapColor": "225, 210, 19",
+      "MapAttackColor": "140, 255, 0, 0",
+      "WorldColor": "225, 210, 19",
+      "WorldAttackColor": "140, 255, 0, 0"
+    },
+    "World": {
+      "Enable": true,
+      "DrawAttack": true,
+      "DrawAttackEndPoint": true,
+      "DrawDestination": true,
+      "DrawDestinationEndPoint": true,
+      "DrawLine": true,
+      "AlwaysRenderWorldUnit": true,
+      "DrawBoundingBox": false,
+      "DrawFilledCircle": true,
+      "RenderCircleThickness": 5,
+      "LineThickness": 5
+    },
+    "Map": {
+      "Enable": false,
+      "DrawAttack": true,
+      "DrawDestination": true,
+      "LineThickness": 5
+    }
+  },
+  "UniqueMonster": {
+    "Enable": true,
+    "UnitType": 4,
+    "Colors": {
+      "MapColor": "226, 122, 33",
+      "MapAttackColor": "Red",
+      "WorldColor": "226, 122, 33",
+      "WorldAttackColor": "Red"
+    },
+    "World": {
+      "Enable": true,
+      "DrawAttack": true,
+      "DrawAttackEndPoint": true,
+      "DrawDestination": true,
+      "DrawDestinationEndPoint": true,
+      "DrawLine": true,
+      "AlwaysRenderWorldUnit": true,
+      "DrawBoundingBox": false,
+      "DrawFilledCircle": true,
+      "RenderCircleThickness": 5,
+      "LineThickness": 5
+    },
+    "Map": {
+      "Enable": true,
+      "DrawAttack": true,
+      "DrawDestination": true,
+      "LineThickness": 3
+    }
+  },
+  "TestingUnits": {
+    "Enable": true,
+    "UnitType": 8,
+    "Colors": {
+      "MapColor": "226, 122, 33",
+      "MapAttackColor": "Red",
+      "WorldColor": "226, 122, 33",
+      "WorldAttackColor": "Red"
+    },
+    "World": {
+      "Enable": true,
+      "DrawAttack": true,
+      "DrawAttackEndPoint": true,
+      "DrawDestination": true,
+      "DrawDestinationEndPoint": true,
+      "DrawLine": true,
+      "AlwaysRenderWorldUnit": true,
+      "DrawBoundingBox": false,
+      "DrawFilledCircle": true,
+      "RenderCircleThickness": 5,
+      "LineThickness": 5
+    },
+    "Map": {
+      "Enable": true,
+      "DrawAttack": true,
+      "DrawDestination": true,
+      "LineThickness": 3
+    }
+  },
+  "Self": {
+    "Enable": true,
+    "UnitType": 5,
+    "Colors": {
+      "MapColor": "193, 35, 194, 47",
+      "MapAttackColor": "Red",
+      "WorldColor": "193, 35, 194, 47",
+      "WorldAttackColor": "Red"
+    },
+    "World": {
+      "Enable": true,
+      "DrawAttack": true,
+      "DrawAttackEndPoint": true,
+      "DrawDestination": true,
+      "DrawDestinationEndPoint": true,
+      "DrawLine": true,
+      "AlwaysRenderWorldUnit": true,
+      "DrawBoundingBox": false,
+      "DrawFilledCircle": false,
+      "RenderCircleThickness": 3,
+      "LineThickness": 6
+    },
+    "Map": {
+      "Enable": true,
+      "DrawAttack": true,
+      "DrawDestination": true,
+      "LineThickness": 5
+    }
+  },
+  "Players": {
+    "Enable": true,
+    "UnitType": 7,
+    "Colors": {
+      "MapColor": "193, 35, 194, 47",
+      "MapAttackColor": "Red",
+      "WorldColor": "193, 35, 194, 47",
+      "WorldAttackColor": "Red"
+    },
+    "World": {
+      "Enable": true,
+      "DrawAttack": true,
+      "DrawAttackEndPoint": true,
+      "DrawDestination": true,
+      "DrawDestinationEndPoint": true,
+      "DrawLine": true,
+      "AlwaysRenderWorldUnit": true,
+      "DrawBoundingBox": false,
+      "DrawFilledCircle": false,
+      "RenderCircleThickness": 3,
+      "LineThickness": 6
+    },
+    "Map": {
+      "Enable": true,
+      "DrawAttack": true,
+      "DrawDestination": true,
+      "LineThickness": 5
+    }
+  },
+  "Minions": {
+    "Enable": true,
+    "UnitType": 6,
+    "Colors": {
+      "MapColor": "218, 73, 255",
+      "MapAttackColor": "121, 255, 73, 115",
+      "WorldColor": "218, 73, 255",
+      "WorldAttackColor": "121, 255, 73, 115"
+    },
+    "World": {
+      "Enable": true,
+      "DrawAttack": true,
+      "DrawAttackEndPoint": true,
+      "DrawDestination": true,
+      "DrawDestinationEndPoint": true,
+      "DrawLine": true,
+      "AlwaysRenderWorldUnit": true,
+      "DrawBoundingBox": false,
+      "DrawFilledCircle": false,
+      "RenderCircleThickness": 5,
+      "LineThickness": 5
+    },
+    "Map": {
+      "Enable": false,
+      "DrawAttack": true,
+      "DrawDestination": true,
+      "LineThickness": 5
+    }
+  }
+}

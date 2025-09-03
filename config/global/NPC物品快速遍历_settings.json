@@ -1,0 +1,23 @@
+{
+  "NPCInvRules": [
+    {
+      "Name": "词缀名规则.ifl",
+      "Location": "词缀名规则.ifl",
+      "Enabled": false,
+      "Color": "ff0000ff"
+    },
+    {
+      "Name": "鞋子移速.ifl",
+      "Location": "鞋子移速.ifl",
+      "Enabled": true,
+      "Color": "ff0000ff"
+    }
+  ],
+  "Enable": true,
+  "DrawOnTabLabels": true,
+  "TabFrameColor": "ff0000ff",
+  "FrameThickness": {
+    "Value": 1
+  },
+  "ReloadFilters": {}
+}

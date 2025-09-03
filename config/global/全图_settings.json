@@ -1,0 +1,51 @@
+{
+  "Enable": true,
+  "缩放比例": {
+    "Value": 1.0
+  },
+  "DrawWalkableMap": true,
+  "TerrainColor": "969696ff",
+  "绘图最大尺寸": {
+    "Value": 4096
+  },
+  "路线最大限制": {
+    "Value": 1000
+  },
+  "ShowPathsToTargetsOnMap": true,
+  "DefaultMapPathColor": "008000ff",
+  "UseRainbowColorsForMapPaths": true,
+  "ShowAllTargets": false,
+  "TargetNameFilter": {
+    "Value": ""
+  },
+  "MaxTargetNameCount": {
+    "Value": 10
+  },
+  "ShowSelectedTargets": true,
+  "EnableTargetNameBackground": true,
+  "地图标记颜色": "ee82eeff",
+  "ShowPathsToTargets": true,
+  "ShowPathsToTargetsOnlyWithClosedMap": true,
+  "UseRainbowColorsForPaths": true,
+  "DefaultPathColor": "ff0000ff",
+  "OffsetPaths": true,
+  "PathThickness": {
+    "Value": 1.0
+  },
+  "DrawEveryNthSegment": {
+    "Value": 1
+  },
+  "DrawHeightMap": false,
+  "DisableHeightAdjust": false,
+  "SkipNeighborFill": false,
+  "SkipEdgeDetector": false,
+  "SkipRecoloring": false,
+  "DisableDrawRegionLimiting": false,
+  "IgnoreFullscreenPanels": false,
+  "MapCenterOffsetX": {
+    "Value": 0
+  },
+  "MapCenterOffsetY": {
+    "Value": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Rules": [
+    {
+      "Conditions": [],
+      "delayBetweenRuns": 0.0,
+      "Enabled": true,
+      "Name": "0",
+      "SkillName": "烈焰之牆",
+      "Key": 0,
+      "IsHold": false,
+      "IsEvade": false,
+      "EvadeRange": 0,
+      "IsUserCooldown": false,
+      "IsWalkable": false,
+      "Rarity": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

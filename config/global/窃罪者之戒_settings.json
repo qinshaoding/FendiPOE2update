@@ -1,0 +1,20 @@
+{
+  "Enable": true,
+  "X": {
+    "Value": -701
+  },
+  "Y": {
+    "Value": 269
+  },
+  "TransparentBackground": false,
+  "TrackExalted": true,
+  "TrackChaos": true,
+  "TrackChance": false,
+  "TrackAnnulment": false,
+  "TrackPerfectJewellers": false,
+  "TrackDivine": true,
+  "TrackMirror": true,
+  "TrackStellarAmulet": false,
+  "TrackSapphireRing": false,
+  "ResetCounter": {}
+}

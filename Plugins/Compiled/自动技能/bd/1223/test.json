@@ -1,0 +1,31 @@
+{
+  "Rules": [
+    {
+      "Conditions": [
+        {
+          "$type": "自动技能.ProfileManager.Conditions.VitalsCondition, 自动技能",
+          "operator": "大于",
+          "vitalType": "蓝量",
+          "threshold": 1400,
+          "component": null
+        }
+      ],
+      "delayBetweenRuns": 0.0,
+      "Enabled": true,
+      "Name": "0",
+      "SkillName": "電球",
+      "Key": 0,
+      "IsHold": false,
+      "IsEvade": false,
+      "EvadeRange": 0,
+      "IsUserCooldown": false,
+      "IsWalkable": false,
+      "Rarity": [
+        0,
+        1,
+        3,
+        2
+      ]
+    }
+  ]
+}

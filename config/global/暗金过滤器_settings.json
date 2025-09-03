@@ -1,0 +1,18 @@
+{
+  "Enable": false,
+  "RefreshUniquesFile": {},
+  "Color": "800080ff",
+  "FrameThickness": {
+    "Value": 60
+  },
+  "CacheIntervall": {
+    "Value": 2
+  },
+  "PositionX": {
+    "Value": 576.0
+  },
+  "PositionY": {
+    "Value": 576.0
+  },
+  "BoxOutline": false
+}

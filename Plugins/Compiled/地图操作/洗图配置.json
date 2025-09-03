@@ -1,0 +1,37 @@
+{
+  "Rules": [
+    {
+      "Name": "0",
+      "Enabled": true,
+      "Tier": [
+        1,
+        16
+      ],
+      "ModCount": 6,
+      "Corrupt": true,
+      "MagicToRare": true,
+      "NormalToRare": false,
+      "Emotion": true,
+      "EmotionSettings": [
+        {
+          "Name": "油1",
+          "Path": "Metadata/Items/Currency/DistilledEmotion1",
+          "Enable": true,
+          "Index": 6
+        },
+        {
+          "Name": "油2",
+          "Path": "Metadata/Items/Currency/DistilledEmotion1",
+          "Enable": true,
+          "Index": 6
+        },
+        {
+          "Name": "油3",
+          "Path": "Metadata/Items/Currency/DistilledEmotion1",
+          "Enable": true,
+          "Index": 6
+        }
+      ]
+    }
+  ]
+}

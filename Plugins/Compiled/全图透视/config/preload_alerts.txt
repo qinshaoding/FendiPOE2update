@@ -1,0 +1,557 @@
+﻿#Metadata; Text; Color (ARGB)
+# BLIGHT
+Metadata/Monsters/Masters/BlightBuilderWild;卡西娅 [塔防];ff00FF00
+
+# LEGION
+Metadata/Monsters/LegionLeague/LegionKaruiGeneral;西里·伽玛库女王;ff00FF00
+Metadata/Monsters/LegionLeague/LegionMarakethGeneral;奥库娜，漆黑丝克玛;ff00FF00
+Metadata/Monsters/LegionLeague/LegionEternalEmpireGeneral;穆希尔斯·狮眼将军 ;ff00FF00
+Metadata/Monsters/LegionLeague/LegionVaalGeneral;蝰蛇娜帕齐 ;ff00FF00
+Metadata/Monsters/LegionLeague/LegionTemplarGeneral;圣沃克斯大主教 ;ff00FF00
+
+# ABYSS
+Metadata/MiscellaneousObjects/Abyss/AbyssSubAreaTransition; 深渊[BOSS]; ff36B400
+Metadata/Monsters/ReligiousTemplar/AbyssLichBoss1; 乌勒曼的凝视; ff00FF00
+Metadata/Monsters/ReligiousTemplar/AbyssLichBoss2; 曼纳姆的凝视; ff00FF00
+Metadata/Chests/Abyss/AbyssFinalChest; 深渊 #1; ff00AA00
+Metadata/Chests/Abyss/AbyssFinalChest2; 深渊 #2; ff00AA00
+Metadata/Chests/Abyss/AbyssFinalChest3; 深渊 #3; ff00AA00
+Metadata/Chests/Abyss/AbyssFinalChest4; 深渊 #4; ff00AA00
+# LABYRINTH TRIALS
+Metadata/QuestObjects/Labyrinth/LabyrinthTrialPortal; 迷宫试炼; ffff9966
+
+#LABYRINTH PROGRESSION CHEST - Dark shrines - Passage
+##Metadata/Terrain/Labyrinth/Objects/GoldenChest; 金箱子; ffffD700
+##Metadata/Chests/Labyrinth/LabyrinthTrinketChest; 依泽洛饰品; ffd2d2d2
+Metadata/Terrain/Labyrinth/Objects/LabyrinthDarkshrineHidden; 黑暗祭坛; ff0080ff
+##Metadata/Terrain/Labyrinth/Objects/SecretPassage; 密道; ffffff00
+
+#LABYRINTH SILVER CHEST
+##Metadata/Terrain/Labyrinth/Objects/SilverChest;白银宝箱; fff2f2f2
+Metadata/Chests/Labyrinth/LabyrinthSpecificUnique; 精致的保险箱; ffd2742d
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverCurrency; 银币箱子; ffff00ff
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverCurrencyQuality; 未知箱子1; ffff00ff
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverJewelryUnique; 迷宫首饰宝箱; ffd2742d
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverDivination; 银色预言宝箱; ffff0000
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique1; 银色宝箱1; ffd2742d
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique2;银色宝箱2; ffd2742d
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique3; 银色宝箱3; ffd2742d
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverSkillGems; 技能宝箱; ff00ff00
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverCorruptedVaal; 腐化宝箱; ffff0000
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverJewelryJewelry;首饰箱子; ff00ff00
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverJewelryJewels;珠宝箱子; ff00ff00
+
+#Izaro Phases (Phase, How to get extra key)
+Metadata/Monsters/Labyrinth/IzaroPortalCold; 依泽洛阶段; ff00ff00
+Metadata/Monsters/FireElemental/FireElementalIzaro; 精华; ff00ff00
+Metadata/Terrain/Labyrinth/Objects/ChargeDisruptors/IzaroDisruptor; 充能; ff00ff00
+Metadata/Monsters/PopUpTrap/LabyrinthBossPylonReduceArmour; 减伤阶段; ff00ff00
+Metadata/Terrain/Labyrinth/Objects/ToggleStatues/EmpowerStatue1; 剧毒管道; ff00ff00
+Metadata/Monsters/Statue/IzaroGargoyleCold; 幻色石像鬼; ff00ff00
+Metadata/Monsters/Statue/IzaroChronosStatueCold; 所有人获得生命; ff00ff00
+Metadata/Monsters/Labyrinth/LabyrinthLieutenantSkeletonMelee; 怒火将军; ff00ff00
+
+# BREACH
+Metadata/Chests/Breach/BreachChest1Large; 索伏之手; ffFF5A5A
+Metadata/Chests/Breach/BreachChest2Large; 托沃之手; ffE0ffff
+Metadata/Chests/Breach/BreachChest3Large; 艾许之手; ff6495ED
+Metadata/Chests/Breach/BreachChest4Large; 乌尔尼多之手; ffD2B48C
+Metadata/Chests/Breach/BreachChest5Large; 夏乌拉之手; ffE8B2CE
+
+Metadata/Monsters/BreachBosses/BreachBossFireWild;索伏; ffFF5A5A
+Metadata/Monsters/BreachBosses/BreachBossColdWild;托沃; ffE0ffff
+Metadata/Monsters/BreachBosses/BreachBossLightningWild;艾许; ff6495ED
+Metadata/Monsters/BreachBosses/BreachBossChaosWild;夏乌拉; ffC23B80
+Metadata/Monsters/BreachBosses/BreachBossPhysicalWild; 乌尔尼多; ffD2B48C
+
+Metadata/Monsters/BreachBosses/BreachBossFireMap;索伏; ffFF5A5A
+Metadata/Monsters/BreachBosses/BreachBossColdMap;托沃; ffE0ffff
+Metadata/Monsters/BreachBosses/BreachBossLightningMap;艾许; ff6495ED
+Metadata/Monsters/BreachBosses/BreachBossChaosMap;夏乌拉; ffC23B80
+Metadata/Monsters/BreachBosses/BreachBossPhysicalMap; 乌尔尼多; ffD2B48C
+
+Metadata/Monsters/Daemon/BarrelOfSpidersDaemonUnique; 怪桶(腐蚀地面); ffD2742D
+Metadata/Monsters/Daemon/ChestDaemonSummonKaomTotems;  冈姆的宝藏; ffD2742D
+Metadata/Monsters/Daemon/ChestDaemonSummonRareUniqueChest2; 冈姆的宝藏; ffD2742D
+Metadata/Monsters/Daemon/ChestDaemonSummonRareUniqueChest3; 魔域宝盒; ffD2742D
+Metadata/Monsters/Daemon/ChestDaemonSummonRareUniqueChest4; 永恒帝国之瓮; ffD2742D
+Metadata/Monsters/Daemon/ChestDaemonSummonTormentContinous; 永恒帝国之瓮; ffD2742D
+Metadata/Monsters/Daemon/ChestDaemonSummonSandstormDaemon; 马拉克斯花器; ffD2742D
+Metadata/Monsters/Daemon/ChestDaemonSummonExileUniqueChest1;  普兰德斯的宝盒; ffD2742D
+Metadata/Monsters/Daemon/WeylamsWarchestUnique; 威勒姆的战争宝箱; ffD2742D
+Metadata/Monsters/Daemon/ChestDaemonSummonFireWarband; 红刃的宝库; ffD2742D
+Metadata/Monsters/Daemon/ChestDaemonSummonColdWarband; 军团的宝库; ffD2742D
+Metadata/Monsters/Daemon/ChestDaemonSummonLightningWarband; 布琳洛特宝库; ffD2742D
+Metadata/Monsters/Daemon/ChestDaemonSummonChaosWarband; 混沌军团的宝库; ffD2742D
+
+# PERANDUS
+
+Metadata/NPC/League/Perandus/Cadiro; 卡迪罗; ffD2742D
+Art/Models/NPC/Cadiro/Perandus.sm; 卡迪罗3; ffD2742D
+Art/Models/NPC/Cadiro/rig_d6b5e300.smd; 卡迪罗4; ffD2742D
+Art/Models/NPC/Cadiro/rig.amd; 卡迪罗5; ffD2742D
+Art/Textures/NPC/Cadiro/PeranduscsPerandussn.mat; 卡迪罗6; ffD2742D
+audio/dialogue/npc/cadiro; 卡迪罗6; ffD2742D
+Metadata/NPC/League/Perandus/CadiroGoldPile; 卡迪罗7; ffD2742D
+Metadata/NPC/League/Perandus/CadiroPortal; 卡迪罗8; ffD2742D
+Metadata/Monsters/Perandus/PerandusGuardMapBoss1; 普拉提尼亚, 普洛斯彼罗的侍从; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardMapBoss2; 奥利欧特, 普洛斯彼罗的熔炉护卫; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardMapBoss3; 罗迪欧恩, 普洛斯彼罗的侍从; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardMapBoss4; 欧斯米亚, 普洛斯彼罗的侍从; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardMapBoss4Clone; 欧斯米亚, 普洛斯彼罗的侍从; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardMapBoss5; 帕里亚斯, 普洛斯彼罗的侍从; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardMapBoss6; 亚吉恩特, 普洛斯彼罗的侍从; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardMapBoss7; 瑞尼欧特, 普洛斯彼罗的侍从; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardBasic1; 赛罗讷, 金库守卫; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardBasic2; 赫特斯, 碎膝者; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardBasic3; 库多, 佣兵; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardBasic4; 路西斯, 赏金猎人; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardBasic5; 贝拉特, 暗影佣兵; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardSupport1; 里亚娜, 负债庶民; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardSupport2; 玛里亚斯, 负债绑匪; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardSupport3; 薇拉, 负债贵族; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardSupport4; 裴西亚, 负债盗猎者; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss1; 苏特斯, 金库护卫; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss2; 欧泰罗, 金库护卫; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss3; 爱飞罗, 金库护卫; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss4; 亚特西亚, 金库护卫; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss5_; 安娜薇莉, 金库护卫; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss6; 罗瑟, 金库护卫; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss7; 亚利尼亚, 金库护卫; ffFFD700
+Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss8; 梅莉塔尼亚, 金库护卫; ffFFD700
+
+Metadata/Monsters/GargoyleBoss/GargoyleBoss; 阿格斯; ffDC143C
+Metadata/Monsters/Squid/SquidBossSideArea; 全知之眼; ffDC143C
+Metadata/Monsters/Goatman/GoatmanLeapBossSideArea; 劲风之神寇努; ffDC143C
+Metadata/Monsters/GhostPirates/GhostPirateBossSideArea; 凶恶之影科尼拉亚; ffDC143C
+Metadata/Monsters/DemonModular/DemonModularElementsBossSideArea; 阿兹里之傲(秘密实验室); ffDC143C
+Metadata/Monsters/Goatman/GoatmanShamanBossSideArea; 巨潮之神谢克; ffDC143C
+Metadata/Monsters/Skeleton/SkeletonMeleeLargeBossSideArea; 塑骨者欧西卡提; ffDC143C
+Metadata/Monsters/RootSpiders/RootSpiderBossSideArea; 大地之神卡马克; ffDC143C
+Metadata/Monsters/Kiweth/KiwethBossSideArea; 血月之灵印提; ffDC143C
+Metadata/Monsters/incaminion/FragmentBossSideArea; 利刃之灵; ffDC143C
+Metadata/Monsters/Snake/SnakeRoboBossSideArea; 远古守卫者维拉库查; ffDC143C
+Metadata/Monsters/DemonFemale/WhipDemonBossSideArea; 苦痛艺者卡瓦; ffDC143C
+Metadata/Monsters/Pyromaniac/PyromaniacBossSideArea; 馆长密姆; ffDC143C
+Metadata/Monsters/BloodChieftain/MonkeyChiefBossSideArea; 自然之声希密; ffDC143C
+Metadata/Monsters/InsectSpawner/CarrionQueenBossSideArea; 日炎虫后; ffDC143C
+Metadata/Monsters/Totems/TotemBossSideArea; 熔火之印姆加斯卡; ffDC143C
+Metadata/Monsters/Spiders/SpiderBossSideArea; 索命者辛提库; ffDC143C
+Metadata/Monsters/Snake/SnakeScorpionBossSideArea; 针鳞; ffDC143C
+Metadata/Monsters/Cannibal/CannibalBossSideArea; 幸运的珀奎尔; ffDC143C
+Metadata/Monsters/Skeletons/ConstructMeleeBossSideArea; 瓦尔金属匠哈维里; ffDC143C
+Metadata/Monsters/Skeletons/ConstructRangedBossSideArea; 瓦尔塑灵师库特克; ffDC143C
+Metadata/Monsters/AnimatedItem/AnimatedArmourBossSideArea; 复仇之影; ffDC143C
+Metadata/Monsters/DemonBosses/DemonBoss1/Demon1BossSideArea; 刽子手阿塔古楚; ffDC143C
+Metadata/Monsters/DemonBosses/DemonBoss2/Demon2BossSideArea; 暗影维拉库; ffDC143C
+Metadata/Monsters/DemonBosses/DemonBoss3/Demon3BossSideArea; 雨季之主查斯卡; ffDC143C
+Metadata/Monsters/SandSpitterEmerge/SandSpitterBossSideArea; 蟹巢之母; ffDC143C
+Metadata/Monsters/Seawitch/SeaWitchBossSideArea; 深渊魅影莉玛; ffDC143C
+
+#Extra vaal Bosses
+Metadata/Monsters/SandLeaper/SandLeaperBossSideArea; 奎特西; ffDC143C
+Metadata/Monsters/SkeletonSoldier/SkeletonSoldierMeleeBossSideArea; 卡尔赛佛; ffDC143C
+Metadata/Monsters/Banshee/VaalSideAreaBoss8; 食梦者伊 尔菲亚; ffDC143C
+Metadata/Monsters/VaalSideAreaBosses/VaalSideAreaBoss1; 艾伦迪亚; ffDC143C
+Metadata/Monsters/ZombieDismember/Blackguard/BlackguardZombieBossSideArea; 尸肉指挥官; ffDC143C
+Metadata/Monsters/Cannibal/CannibalBossSideAreaLowbie; 幸运的珀奎尔; ffDC143C
+Metadata/Monsters/Squid/SquidBossSideAreaLowbie; 全知之眼; ffDC143C
+Metadata/Monsters/WaterSpiral/WaterSpiralBossSideArea; 恐惧奔流; ffDC143C
+Metadata/Monsters/VaalSideAreaBosses/VaalSideAreaBoss3_; 绿齿加洛德; ffDC143C
+Metadata/Monsters/VaalSideAreaBosses/VaalSideAreaBoss2; 奥拉乌娜; ffDC143C
+Metadata/Monsters/StatueFingerMage/VaalSideAreaBoss7;交织巨岩艾克萨兹; ffDC143C
+Metadata/Monsters/VaalSideAreaBosses/VaalSideAreaBoss5;光剑奥瑞利欧; ffDC143C
+Metadata/Monsters/SandSpitterEmerge/SandSpitterBossSideAreaLowbie; 蟹巢之母; ffDC143C
+Metadata/Monsters/Axis/AxisCasterBossInvasion; 启示之雷依芙坎妲; ffDC143C
+Metadata/Monsters/Axis/AxisExperimenterBossInvasion; 唤生之主多瑟雷; ffDC143C
+Metadata/Monsters/Axis/AxisSoldierBossInvasion; 修灵者龙魂; ffDC143C
+Metadata/Monsters/Bandits/BanditMeleeBossInvasion;石颅贝卢斯; ffDC143C
+Metadata/Monsters/Bandits/BanditBowBossInvasion; 飞狐克尔; ffDC143C
+Metadata/Monsters/Beasts/BeastBossInvasion; 噬髓巨兽; ffDC143C
+Metadata/Monsters/Rhoas/RhoaBossInvasion; 狩心之喙; ffDC143C
+Metadata/Monsters/BloodChieftain/BloodChieftainBossInvasion;丛林梦魇; ffDC143C
+Metadata/Monsters/BloodElemental/BloodElementalBossInvasion; 腐血之息; ffDC143C
+Metadata/Monsters/Cannibal/CannibalMaleBossInvasion; 丧神者; ffDC143C
+Metadata/Monsters/Cannibal/CannibalFemaleBossInvasion; 噬夜之灵; ffDC143C
+Metadata/Monsters/Undying/CityStalkerMaleBossInvasion; 焚书者; ffDC143C
+Metadata/Monsters/Undying/CityStalkerFemaleBossInvasion; 不朽之雷鸣; ffDC143C
+Metadata/Monsters/DemonFemale/DemonFemaleBossInvasion; 苦痛之象; ffDC143C
+Metadata/Monsters/DemonModular/DemonModularBossInvasion; 冤仇者; ffDC143C
+Metadata/Monsters/DemonModular/DemonFemaleRangedBossInvasion; 憎恨之念; ffDC143C
+Metadata/Monsters/MossMonster/FireMonsterBossInvasion; 熔炎徽记; ffDC143C
+Metadata/Monsters/Monkeys/FlameBearerBossInvasion; 暴炎火灵; ffDC143C
+Metadata/Monsters/incaminion/FragmentBossInvasion;  审灵之具; ffDC143C
+Metadata/Monsters/Frog/FrogBossInvasion; 猎脊者; ffDC143C
+Metadata/Monsters/GemMonster/GemFrogBossInvasion; 创世圣灵; ffDC143C
+Metadata/Monsters/Goatman/GoatmanBossInvasion; 致命之蹄; ffDC143C
+Metadata/Monsters/Goatman/GoatmanShamanBossInvasion; 圣丘之灵; ffDC143C
+Metadata/Monsters/Grappler/GrapplerBossInvasion; 奇迹修士; ffDC143C
+Metadata/Monsters/Guardians/GuardianFireBossInvasion; 怒炎魔徽; ffDC143C
+Metadata/Monsters/Guardians/GuardianLightningBossInvasion; 猜疑之面; ffDC143C
+Metadata/Monsters/Guardians/GuardianHeadFireBossInvasion; 愤怒之面; ffDC143C
+Metadata/Monsters/Guardians/GuardianHeadColdBossInvasion; 冷酷之面; ffDC143C
+Metadata/Monsters/Guardians/GuardianHeadLightningBossInvasion; 无信之面; ffDC143C
+Metadata/Monsters/GemMonster/IguanaBossInvasion; 圣域元灵; ffDC143C
+Metadata/Monsters/InsectSpawner/CarrionQueenBossInvasion; 腐败之源; ffDC143C
+Metadata/Monsters/Kiweth/KiwethBossInvasion; 覆灭之记; ffDC143C
+Metadata/Monsters/Lion/LionBossInvasion; 刃牙; ffDC143C
+Metadata/Monsters/MossMonster/MossMonsterBossInvasion; 崩岩; ffDC143C
+Metadata/Monsters/Necromancer/NecromancerBossInvasion; 尸匠; ffDC143C
+Metadata/Monsters/Pyromaniac/PyromaniacBossInvasion; 无尽之炎; ffDC143C
+Metadata/Monsters/RootSpiders/RootSpiderBossInvasion; 残酷尖牙; ffDC143C
+Metadata/Monsters/SandSpitterEmerge/SandSpitterBossInvasion; 海滨之炎; ffDC143C
+Metadata/Monsters/Seawitch/SeaWitchBossInvasion; 海潮之音; ffDC143C
+Metadata/Monsters/ShieldCrabs/ShieldCrabBossInvasion; 颤壳兽; ffDC143C
+Metadata/Monsters/SandSpitters/SandSpitterFromCrabBossInvasion; 颤壳兽; ffDC143C
+Metadata/Monsters/Beasts/BeastSkeletonBossInvasion; 枯骨巨兽; ffDC143C
+Metadata/Monsters/Skeletons/SkeletonElementalBossInvasion; 元素智者; ffDC143C
+Metadata/Monsters/Skeletons/SkeletonBowBossInvasion; 静夜杀手; ffDC143C
+Metadata/Monsters/Snake/SnakeMeleeBossInvasion; 死刃之曲; ffDC143C
+Metadata/Monsters/Snake/SnakeRangedBossInvasion; 刃牙之鳞; ffDC143C
+Metadata/Monsters/Spawn/SpawnBossInvasion; 邪语; ffDC143C
+Metadata/Monsters/Spiders/SpiderBossInvasion; 迷雾刃牙; ffDC143C
+Metadata/Monsters/Spikers/SpikerBossInvasion; 锋背; ffDC143C
+Metadata/Monsters/Squid/SquidBossInvasion; 扼灵之眼; ffDC143C
+Metadata/Monsters/Totems/TotemBossInvasion; 基克基; ffDC143C
+Metadata/Monsters/Rhoas/RhoaUndeadBossInvasion; 冥府雷霆; ffDC143C
+Metadata/Monsters/Undying/UndyingBossInvasion; 无尽之魂; ffDC143C
+Metadata/Monsters/WaterElemental/WaterElementalBossInvasion; 冥河之语; ffDC143C
+Metadata/Monsters/ZombieDismember/ZombieBossInvasion; 残灵; ffDC143C
+Metadata/Monsters/Monkeys/MonkeyBossInvasion1; 冷血之灵; ffDC143C
+Metadata/Monsters/Monkeys/MonkeyBossInvasion2; 化血之灵; ffDC143C
+Metadata/Monsters/Skeletons/SkeletonMeleeBossInvasion; 亡灵之锤; ffDC143C
+Metadata/Monsters/Skeletons/SkeletonLargeBossInvasion; 葛拉斯; ffDC143C
+Metadata/Monsters/Skeletons/ConstructBossInvasion; 夺灵之主; ffDC143C
+Metadata/Monsters/GhostPirates/GhostPirateBossInvasion; 无穷之痕; ffDC143C
+Metadata/Monsters/Rhoas/RhoaAlbino; 白毛恐喙鸟
+
+Metadata/Monsters/Spirit/TormentedArsonist; 罪魂: 焚烧者; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedFreezer; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedBlasphemer; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedCannibal; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedCharlatan; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedCutthroat; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedEmbezzler; 罪魂; ffFF00FF
+Metadata/Monsters/Spirit/TormentedCounterfeiter; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedMartyr; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedMutilator; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedNecromancer; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedPoisoner; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedRogue; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedLibrarian; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedSmuggler; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedSpy; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedExperimenter; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedThief; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedThug; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedCorrupter; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedWarlord; 罪魂; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedFisherman; 罪魂; ffFF00FF
+
+Metadata/Monsters/Wb/WbLightningGrunt1; 布琳洛特扫荡者
+Metadata/Monsters/Wb/WbLightningGrunt2; 布琳洛特扫荡者
+Metadata/Monsters/Wb/WbLightningGrunt3; 布琳洛特扫荡者
+Metadata/Monsters/Wb/WbLightningGrunt4; 布琳洛特扫荡者
+Metadata/Monsters/Wb/WbLightningGrunt5; 布琳洛特扫荡者
+Metadata/Monsters/Wb/WbLightningGrunt6; 布琳洛特扫荡者
+Metadata/Monsters/Wb/WbLightningSupport1; 布琳洛特慰言者
+Metadata/Monsters/Wb/WbLightningSupport2; 布琳洛特慰言者
+Metadata/Monsters/Wb/WbLightningSupport3; 布琳洛特慰言者
+Metadata/Monsters/Wb/WbLightningSupport4; 布琳洛特慰言者
+Metadata/Monsters/Wb/WbLightningSupport4Clone; 布琳洛特慰言者
+Metadata/Monsters/Wb/WbLightningElite1; 布琳洛特慰言者
+Metadata/Monsters/Wb/WbLightningElite2; 布琳洛特慰言者
+Metadata/Monsters/Wb/WbLightningElite3; 布琳洛特慰言者
+Metadata/Monsters/Wb/WbLightningLeader1; 【双眼】异味格林; ffFFFF00
+Metadata/Monsters/Wb/WbLightningLeader2; 海妖墩座苏萨拉; ffFFFF00
+Metadata/Monsters/Wb/WbLightningLeader3; 【腐母】露西萝丝; ffFFFF00
+Metadata/Monsters/Wb/WbColdGrunt1; 哑风野奔者
+Metadata/Monsters/Wb/WbColdGrunt2; 哑风野奔者
+Metadata/Monsters/Wb/WbColdGrunt3; 哑风野奔者
+Metadata/Monsters/Wb/WbColdGrunt4; 哑风野奔者
+Metadata/Monsters/Wb/WbColdGrunt5; 哑风野奔者
+Metadata/Monsters/Wb/WbColdGrunt6; 哑风野奔者
+Metadata/Monsters/Wb/WbColdGrunt7; 哑风野奔者
+Metadata/Monsters/Wb/WbColdLynx1; 哑风山猫
+Metadata/Monsters/Wb/WbColdSupport1; 哑风魔缚者
+Metadata/Monsters/Wb/WbColdSupport2; 哑风魔缚者
+Metadata/Monsters/Wb/WbColdSupport3; 哑风魔缚者
+Metadata/Monsters/Wb/WbColdSupport4; 哑风魔缚者
+Metadata/Monsters/Wb/WbColdElite1; 哑风魔缚者
+Metadata/Monsters/Wb/WbColdElite2; 哑风魔缚者
+Metadata/Monsters/Wb/WbColdElite3; 哑风魔缚者
+Metadata/Monsters/Wb/WbColdElite4; 哑风魔缚者
+Metadata/Monsters/Wb/WbColdElite4Clone; 哑风魔缚者
+Metadata/Monsters/Wb/WbColdLeader1; 暮光信徒悠利希; ffFFFF00
+Metadata/Monsters/Wb/WbColdLeader2; 珍涅优苏; ffFFFF00
+Metadata/Monsters/Wb/WbColdLeader2Clone; 珍涅优苏; ffFFFF00
+Metadata/Monsters/Wb/WbColdLeader3; 巨人克星欧提莎; ffFFFF00
+Metadata/Monsters/Wb/WbFireGrunt1; 红刃裂颅
+Metadata/Monsters/Wb/WbFireGrunt2_; 红刃裂颅
+Metadata/Monsters/Wb/WbFireGrunt3; 红刃裂颅
+Metadata/Monsters/Wb/WbFireGrunt4; 红刃裂颅
+Metadata/Monsters/Wb/WbFireGrunt5; 红刃裂颅
+Metadata/Monsters/Wb/WbFireGrunt6_; 红刃裂颅
+Metadata/Monsters/Wb/WbFireSupport1; 红刃裂颅
+Metadata/Monsters/Wb/WbFireSupport2; 红刃裂颅
+Metadata/Monsters/Wb/WbFireSupport3; 红刃裂颅
+Metadata/Monsters/Wb/WbFireSupport4; 红刃裂颅
+Metadata/Monsters/Wb/WbFireElite1; 红刃裂颅
+Metadata/Monsters/Wb/WbFireElite2_; 红刃裂颅
+Metadata/Monsters/Wb/WbFireElite3; 红刃裂颅
+Metadata/Monsters/Wb/WbFireElite4; 红刃裂颅
+Metadata/Monsters/Wb/WbFireLeader1; 厄罗克巴拉; ffFFFF00
+Metadata/Monsters/Wb/WbFireLeader2; 嗜血者伊兰雅本; ffFFFF00
+Metadata/Monsters/Wb/WbFireLeader3; 余烬之女勒丽莉果雅; ffFFFF00
+Metadata/Monsters/Wb/WbFireLeader4; 绯红之雨宾妮雅; ffFFFF00
+Metadata/Monsters/Skeletons/WbLightningEliteSummon1; 雷鸣守护者
+Metadata/Monsters/Skeletons/WbLightningEliteSummon2; 悲语之弦
+Metadata/Monsters/Skeletons/WbLightningEliteSummon3; 雷电战骸
+Metadata/Monsters/Skeletons/WbSkeletonMinionMelee; 崛起军团
+Metadata/Monsters/Skeletons/WbSkeletonMinionRanged;崛起射手
+Metadata/Monsters/Skeletons/WbSkeletonMinionCasterFire; 崛起战斗法师
+Metadata/Monsters/Skeletons/WbSkeletonMinionCasterCold; 崛起战斗法师
+Metadata/Monsters/Skeletons/WbSkeletonMinionCasterLightning; 崛起战斗法师
+Metadata/Monsters/Wb/WbChaosLeader1; 灭亲者拉玛; ffD01F90
+Metadata/Monsters/Wb/WbChaosLeader2; 堕落者卡利亚; ffD01F90
+Metadata/Monsters/Wb/WbChaosLeader2Skeleton; 崛起者卡里亚; ffD01F90
+Metadata/Monsters/Wb/WbChaosLeader3; 朔血者伊伐利; ffD01F90
+Metadata/Monsters/Wb/WbChaosLeader4; 狡徒洛肯; ffD01F90
+Metadata/Monsters/Wb/WbChaosLeader4Minion; 狡徒洛肯; ffD01F90
+Metadata/Monsters/Wb/WbChaosLeader5; 叛徒马尔札克; ffD01F90
+Metadata/Monsters/Wb/WbChaosLeader6; 破坏者贝罗特斯; ffD01F90
+Metadata/Monsters/Wb/WbChaosLeader7; 蛮人凡瑟德; ffD01F90
+Metadata/Monsters/Wb/WbChaosLeader8; 狮吼摩尔葛兰特斯; ffD01F90
+
+Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire1; 古灵使徒斗士
+Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire2; 古灵使徒斗士
+Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire3; 古灵使徒斗士
+Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire4; 古灵使徒斗士
+Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire5; 古灵使徒斗士
+Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire6; 古灵使徒斗士
+Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire7; 古灵使徒斗士
+
+Metadata/Monsters/Revenant/RevenantBoss; 骸骨皇后
+Metadata/Monsters/Revenant/RevenantMapBoss; 瑟拉西亚
+Metadata/Monsters/DaressoExiles/ExileArenaMarauder; 双手剑士凯席尔斯
+Metadata/Monsters/DaressoExiles/ExileArenaWitch; 莫菲亚
+Metadata/Monsters/DaressoExiles/ExileArenaRanger; 自由斗士费利克斯
+Metadata/Monsters/GladiatorBosses/GladiatorBossSupport; 自由斗士费利克斯
+Metadata/Monsters/GladiatorBosses/GladiatorBossLeader; 梅夫雅
+Metadata/Monsters/GladiatorBosses/GladiatorBossElite; 双手剑士凯席尔斯
+Metadata/Monsters/GladiatorBosses/GladiatorBossSupportMap; 天空之象
+Metadata/Monsters/GladiatorBosses/GladiatorBossLeaderMap; 天空之象
+Metadata/Monsters/GladiatorBosses/GladiatorBossEliteMap; 造物之象
+
+Metadata/Monsters/Daemon/TempestDaemonSmokeTrail_; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonDevourCorpses; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonCharges; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonEnvironmentalFire; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonEnvironmentalUberFire; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonEnvironmentalCold; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonEnvironmentalUberCold; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonEnvironmentalLightning; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonEnvironmentalUberLightning; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonEnvironmentalNecromancy; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonEnvironmentalUberNecromancy; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonEnvironmentalPhysical; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonEnvironmentalUberPhysical; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonEnvironmentalCurses; 风暴之魔
+Metadata/Monsters/Daemon/TempestDaemonEnvironmentalSmoke; 风暴之魔
+
+# HARBINGER
+Metadata/Monsters/Avatar/Avatar1; 先驱者1; ff3399ff
+Metadata/Monsters/Avatar/Avatar2; 先驱者2; ff3399ff
+Metadata/Monsters/Avatar/Avatar3_; 先驱者3_; ff3399ff
+Metadata/Monsters/Avatar/Avatar4; 先驱者4; ff3399ff
+Metadata/Monsters/Avatar/Avatar5; 先驱者5; ff3399ff
+Metadata/Monsters/Avatar/Avatar6; 先驱者6; ff3399ff
+Metadata/Monsters/Avatar/Avatar7; 先驱者7; ff3399ff
+Metadata/Monsters/Avatar/Avatar8; 先驱者8; ff3399ff
+Metadata/Monsters/Avatar/Avatar9; 先驱者9; ff3399ff
+Metadata/Monsters/Avatar/Avatar10; 先驱者10; ff3399ff
+Metadata/Monsters/Avatar/Avatar11; 先驱者11; ff3399ff
+Metadata/Monsters/Avatar/Avatar11Summoned_; 先驱者11召唤物; ff3399ff
+Metadata/Monsters/Avatar/Avatar12; 先驱者12; ff3399ff
+Metadata/Monsters/Avatar/Avatar12Summoned; 先驱者12召唤物; ff3399ff
+Metadata/Monsters/Avatar/Avatar13; 先驱者13; ff3399ff
+Metadata/Monsters/Avatar/Avatar13Summoned; 先驱者13召唤物; ff3399ff
+Metadata/Monsters/Avatar/Avatar14; 先驱者14; ff3399ff
+Metadata/Monsters/Avatar/Avatar14Summoned; 先驱者14召唤物; ff3399ff
+Metadata/Monsters/Avatar/Avatar15; 先驱者15; ff3399ff
+Metadata/Monsters/Avatar/Avatar15Summoned; 先驱者15召唤物; ff3399ff
+Metadata/Monsters/Avatar/Avatar16; 先驱者16; ff3399ff
+Metadata/Monsters/Avatar/Avatar16Summoned; 先驱者16召唤物; ff3399ff
+Metadata/Monsters/Avatar/Avatar17; 先驱者17; ff3399ff
+Metadata/Monsters/Avatar/Avatar17Summoned; 先驱者17召唤物; ff3399ff
+Metadata/Monsters/Avatar/Avatar18; 先驱者18; ff3399ff
+Metadata/Monsters/Avatar/Avatar18Summoned; 先驱者18召唤物; ff3399ff
+Metadata/Monsters/Avatar/Avatar19; 先驱者19; ff3399ff
+Metadata/Monsters/Avatar/Avatar19Summoned; 先驱者19召唤物; ff3399ff
+Metadata/Monsters/Avatar/Avatar20; 先驱者20; ff3399ff
+# Apparently better Harbingers?
+Metadata/Monsters/Avatar/Avatar21; 先驱者21; ffff00ff
+Metadata/Monsters/Avatar/Avatar22; 先驱者22; ffff00ff
+Metadata/Monsters/Avatar/Avatar23; 先驱者23; ffff00ff
+Metadata/Monsters/Avatar/Avatar24_; 先驱者24; ffff00ff
+Metadata/Monsters/Avatar/Avatar25; 先驱者25; ffff00ff
+Metadata/Monsters/Avatar/Avatar26; 先驱者26; ffff00ff
+Metadata/Monsters/Avatar/Avatar27; 先驱者27; ffff00ff
+Metadata/Monsters/Avatar/Avatar28; 先驱者28; ffff00ff
+Metadata/Monsters/Avatar/Avatar29; 先驱者29; ffff00ff
+Metadata/Monsters/Avatar/Avatar30; 先驱者30; ffff00ff
+Metadata/Monsters/Avatar/Avatar31; 先驱者31; ffff00ff
+Metadata/Monsters/Avatar/Avatar32; 先驱者32; ffff00ff
+Metadata/Monsters/Avatar/Avatar33; 先驱者33; ffff00ff
+Metadata/Monsters/Avatar/Avatar34; 先驱者34; ffff00ff
+Metadata/Monsters/Avatar/Avatar35; 先驱者35; ffff00ff
+
+
+# 先驱BOSS
+Metadata/Monsters/Avatar/AvatarBossAtlas; 先驱者BOSS; ffff00ff
+# Hillock Event
+Metadata/Monsters/ZombieBoss/ZombieBossHillockSpecialEvent_; Uber Hillock; ff00ff00
+
+
+
+
+# BETRAYAL
+Metadata/NPC/League/Betrayal/BetrayalNinjaCopRaid; 辛迪加; ff00FF00
+Metadata/Monsters/LeagueBetrayal/FortWall/FortWall; 辛迪加; ff00FF00
+Metadata/Monsters/LeagueBetrayal/BetrayalOriathBlackguardMeleeChampionCartGuard; 辛迪加; ff00FF00
+
+Metadata/Monsters/LeagueBetrayal/BetrayalCatarina; 亡灵大师卡塔莉娜; ff36b4b4
+
+Metadata/NPC/League/Incursion/TreasureHunterWild; 阿尔瓦，探索大师; ff64ffff
+Metadata/Monsters/Masters/Einhar; 伊恩哈尔，魔兽大师; ff64ffff
+Metadata/NPC/League/Delve/DelveMinerWildVein; 尼克; ff64ffff
+Metadata/NPC/League/Delve/DelveMinerWildChest; 尼克; ff64ffff
+
+# CRAFTING RECIPES
+Metadata/Terrain/Missions/CraftingUnlocks/BeastRecipe; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/Helena; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeDecayed; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeDelve; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeGravestone; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeMap; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockBase; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockBeast; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockBoundBook; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockDecayed; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockDelve; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGoldenBookstand; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGravestone; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockKaruiPillar; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockRunestone; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockTemplarBook; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockTemplarBookNoHelena; 解锁工艺; ff964DF1
+Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockVaal; 解锁工艺; ff964DF1
+
+# HIDEOUTS
+Metadata/NPC/Missions/HelenaClaim; 可解锁藏身处; ffff0000
+
+# BESTIARY
+Metadata/Monsters/LeagueBestiary/BlackScorpionBestiary;暗夜毒蝎 ; ffd2742d
+Metadata/Monsters/LeagueBestiary/ParasiticSquidBestiary;深海寄生者; ffd2742d
+Metadata/Monsters/LeagueBestiary/TigerBestiarySpiritBoss;大地初子 法瑞尔 传奇; ffd2742d
+Metadata/Monsters/LeagueBestiary/MarakethBirdSpiritBoss;苍空初子 萨奇沃 传奇; ffd2742d
+Metadata/Monsters/LeagueBestiary/SpiderPlatedBestiarySpiritBoss;Fenumus, 暗夜初子 费努姆斯; ffd2742d
+Metadata/Monsters/LeagueBestiary/NessaCrabBestiarySpiritBoss;Craiceann, 深海初子 克林斯昂 ; ffd2742d
+Metadata/Monsters/LeagueBestiary/CrabParasiteLargeBestiary_;深海野蛮巨蟹; ffd2742d
+Metadata/Monsters/LeagueBestiary/HellionBestiary;大地烈炎地狱巨犬; ffd2742d
+Metadata/Monsters/LeagueBestiary/BestiaryMonkeyChiefBlood;大地酋长; ffd2742d
+Metadata/Monsters/LeagueBestiary/MonkeyBloodBestiary;大地巨猿; ffd2742d
+Metadata/Monsters/LeagueBestiary/GoatmanLeapSlamBestiary;大地羊人; ffd2742d
+Metadata/Monsters/LeagueBestiary/BeastCaveBestiary;大地野兽; ffd2742d
+Metadata/Monsters/LeagueBestiary/DropBearBestiary;大地巨熊; ffd2742d
+Metadata/Monsters/LeagueBestiary/KiwethBestiary;苍空反刍鸟; ffd2742d
+Metadata/Monsters/LeagueBestiary/Spider5Bestiary;暗夜黑寡妇; ffd2742d
+Metadata/Monsters/LeagueBestiary/SeaWitchSpawnBestiary;深海墨鱼; ffd2742d
+Metadata/Monsters/LeagueBestiary/SquidBestiary;深海守望者 ; ffd2742d
+Metadata/Monsters/LeagueBestiary/SnakeBestiary1;苍空眼镜蛇 ; ffd2742d
+Metadata/Monsters/LeagueBestiary/RootSpiderBestiary_;暗夜吞噬者 ; ffd2742d
+Metadata/Monsters/LeagueBestiary/SnakeBestiary2;苍空毒血蛇 ; ffd2742d
+Metadata/Monsters/LeagueBestiary/InsectSpawnerBestiary;暗夜女王 ; ffd2742d
+Metadata/Monsters/LeagueBestiary/FrogBestiary;深海裂齿兽; ffd2742d
+Metadata/Monsters/LeagueBestiary/BestiarySpiker;大地针背兽; ffd2742d
+Metadata/Monsters/LeagueBestiary/SandLeaperBestiary;暗夜收割者; ffd2742d
+Metadata/Monsters/LeagueBestiary/BestiaryBull;大地石肌牛; ffd2742d
+#Metadata/Monsters/LeagueBestiary/GemFrogBestiaryClone;深海奇美拉; ffd2742d
+Metadata/Monsters/LeagueBestiary/GemFrogBestiary;深海奇美拉; ffd2742d
+Metadata/Monsters/LeagueBestiary/HoundBestiary;大地熔岩猎犬; ffd2742d
+Metadata/Monsters/LeagueBestiary/PitbullBestiary;大地深邃猎犬; ffd2742d
+Metadata/Monsters/LeagueBestiary/VultureBestiary;苍空秃鹰; ffd2742d
+Metadata/Monsters/LeagueBestiary/IguanaBestiary;苍空奇美拉; ffd2742d
+Metadata/Monsters/LeagueBestiary/RhoaBestiary;苍空恐喙鸟; ffd2742d
+Metadata/Monsters/LeagueBestiary/ShieldCrabBestiary;深海附壳巨蟹; ffd2742d
+Metadata/Monsters/LeagueBestiary/SandSpitterBestiary;深海喷砂爪蟹; ffd2742d
+Metadata/Monsters/LeagueBestiary/LynxBestiary;大地巨型猞猁; ffd2742d
+Metadata/Monsters/LeagueBestiary/WolfBestiary;大地巨狼; ffd2742d
+Metadata/Monsters/LeagueBestiary/TigerBestiary;大地巨虎; ffd2742d
+Metadata/Monsters/LeagueBestiary/Avians/MarakethBirdBestiary;苍空凶鸟; ffd2742d
+Metadata/Monsters/LeagueBestiary/SpiderPlatedBestiary;暗夜混毒魔蛛; ffd2742d
+Metadata/Monsters/LeagueBestiary/CrabSpiderBestiary;深海蜘蛛蟹; ffd2742d
+Metadata/Monsters/LeagueBestiary/HellionBestiary2;大地冰霜地狱巨犬; ffd2742d
+Metadata/Monsters/LeagueBestiary/SpiderPlagueBestiary;暗夜异蛛; ffd2742d
+
+# 势力boss
+Metadata/Monsters/AtlasExiles/AtlasExile1Influence_; 圣战者巴兰; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile1Influence; 圣战者巴兰; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile2Influence; 维利塔妮娅; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile2Influence_; 维利塔妮娅; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile3; 阿尔赫兹敏; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile3.ao; 阿尔赫兹敏; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile3Influence_; 阿尔赫兹敏; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile3Influence; 阿尔赫兹敏; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile4Influence_; 狄洛克斯; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile4Influence; 狄洛克斯; ff36B400
+
+# METAMORPH
+Metadata/NPC/League/Metamorphosis/MetamorphosisNPCWild; 灾变; ff36B400
+#Metadata/MiscellaneousObjects/Metamorphosis/MetamorphosisVat
+
+# 迷雾
+Metadata/MiscellaneousObjects/Affliction/AfflictionInitiator; 迷雾; ff36B400
+
+#夺宝
+Metadata/Chests/LeagueHeist/HeistSmugglersCoinCacheOutdoors;夺宝; ff36B400
+Metadata/Chests/LeagueHeist/HeistSmugglersCoinCache;夺宝; ff36B400
+
+
+# 庄园
+Metadata/Terrain/Leagues/Harvest/Objects/HarvestFeatureChest;庄园;ff36B400
+Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm;庄园; ff037ffc
+Metadata/Terrain/Leagues/Harvest;庄园;ff037ffc
+# 祭坛
+Metadata/Terrain/Leagues/Ritual/RitualRunelnteractable; 驱灵祭坛; ff36b4b4
+Metadata/Terrain/Leagues/Ritual/RitualRuneLight; 驱灵祭坛; ff36b4b4
+Metadata/Terrain/Leagues/Ritual/RitualRuneInteractable; 驱灵祭坛; ff36b4b4
+
+#军团
+Metadata/Terrain/Leagues/Legion/Objects/LegionInitiator; 军团; ff36b4b4
+Metadata/Terrain/Leagues/Legion/Objects/LegionFlashLight; 军团; ff36b4b4
+
+
+#先祖密藏
+Metadata/Monsters/LeagueExpedition/NPC/ExpeditionRog;交易人罗格 [做装];ff00FF00
+Metadata/Monsters/LeagueExpedition/NPC/Rog.ao;交易人罗格 [做装];ff00FF00
+Metadata/Monsters/LeagueExpedition/NPC/ExpeditionTujen;图金 [换通货];ff00FF00
+Metadata/Monsters/LeagueExpedition/NPC/Tujen.ao;图金 [换通货];ff00FF00
+Metadata/Monsters/LeagueExpedition/NPC/Gwennen.ao;桂温妮 [赌猎首];ff00FF00
+Metadata/Monsters/LeagueExpedition/NPC/ExpeditionGwennen_;桂温妮 [赌猎首];ff00FF00
+Metadata/Monsters/LeagueExpedition/NPC/ExpeditionDannig;丹宁 [交换先祖密藏通货];ff00FF00
+Metadata/Monsters/LeagueExpedition/NPC/Dannig.ao;丹宁 [交换先祖密藏通货];ff00FF00
+#箱子
+Metadata/Chests/StrongBoxes/StrongboxDivination;神圣的秘宝[命运卡];ff36b4b5
+Metadata/Chests/StrongBoxes/StrongboxScarab;侦探的保险箱[圣甲虫];ff36b4b5
+
+# 精华 T8
+Metadata/Monsters/Daemon/EssenceDaemonMadness1; 浮夸精华 [顶级精华]; ffff0000
+Metadata/Monsters/Daemon/EssenceDaemonInsanity1; 错乱精华 [顶级精华]; ffff0000
+Metadata/Monsters/Daemon/EssenceDaemonHorror1; 极恐精华 [顶级精华]; ffff0000
+Metadata/Monsters/Daemon/EssenceDaemonTerror1_; 谵妄精华 [顶级精华]; ffff0000
+
+# ZANA
+Metadata/NPC/Missions/Wild/StrDexInt; 札娜;ffff0000 

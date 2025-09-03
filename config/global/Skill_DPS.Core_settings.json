@@ -1,0 +1,12 @@
+{
+  "UpdateInterval": {
+    "Value": 1000
+  },
+  "FontSize": {
+    "Value": 15
+  },
+  "FontColor": "ffd8d8d8",
+  "BackgroundColor": "ff000000",
+  "BorderColor": "ff926b2b",
+  "Enable": true
+}

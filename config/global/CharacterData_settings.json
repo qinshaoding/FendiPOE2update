@@ -1,0 +1,111 @@
+{
+  "RenderSettings": {
+    "IgnoreFullscreenPanels": false,
+    "IgnoreLargePanels": true,
+    "IgnoreChatPanel": false,
+    "IgnoreLeftPanel": true,
+    "IgnoreRightPanel": true
+  },
+  "DebugLog": false,
+  "InstanceExportSettings": {
+    "Enabled": true,
+    "EnablePeacefulAreas": true,
+    "DisableConditionalShouldLogChecks": true,
+    "JsonSettings": {
+      "Enabled": true,
+      "AppendToFileMode": true
+    },
+    "MongoSettings": {
+      "Enabled": false,
+      "ConnectionString": {
+        "Value": "mongodb://localhost:27017"
+      },
+      "Database": {
+        "Value": "Snapshots"
+      }
+    },
+    "PostgresSettings": {
+      "Enabled": false,
+      "ConnectionString": {
+        "Value": "Host=localhost;Port=5432;Database=snapshots;Username=postgres;Password=password"
+      }
+    },
+    "SqLiteSettings": {
+      "Enabled": false
+    }
+  },
+  "LevelSettings": {
+    "Enabled": true,
+    "TextColor": "ffffffff",
+    "LevelPositionX": {
+      "Value": 680
+    },
+    "LevelPositionY": {
+      "Value": 1236
+    }
+  },
+  "ResistanceSettings": {
+    "Enabled": true,
+    "FireResistanceColor": "ffff5555",
+    "ColdResistanceColor": "ff4dccff",
+    "LightningResistanceColor": "fffdf54b",
+    "ChaosResistanceColor": "ffff5bb3",
+    "ResistanceX": {
+      "Value": 1063
+    },
+    "ResistanceY": {
+      "Value": 1236
+    }
+  },
+  "GoldSettings": {
+    "Enabled": true,
+    "GoldColor": "ffcbaf5a",
+    "GoldX": {
+      "Value": 1063
+    },
+    "GoldY": {
+      "Value": 1286
+    }
+  },
+  "DefenseSettings": {
+    "Enabled": true,
+    "ArmorColor": "ffc8c8c8",
+    "EvasionColor": "ff96c896",
+    "BlockColor": "ffc89696",
+    "DefenseX": {
+      "Value": 1063
+    },
+    "DefenseY": {
+      "Value": 1286
+    }
+  },
+  "RegenSettings": {
+    "Enabled": false,
+    "LifeColor": "ffff5555",
+    "ESColor": "ff4da0ff",
+    "ManaColor": "ff4da0ff",
+    "RegenX": {
+      "Value": 1063
+    },
+    "RegenY": {
+      "Value": 1286
+    }
+  },
+  "BackgroundSettings": {
+    "Enabled": false,
+    "BackgroundColor": "c5000000",
+    "ResolutionLeft": {
+      "Value": 667
+    },
+    "ResolutionTop": {
+      "Value": 1230
+    },
+    "ResolutionRight": {
+      "Value": 1256
+    },
+    "ResolutionBottom": {
+      "Value": 1349
+    }
+  },
+  "Enable": false
+}

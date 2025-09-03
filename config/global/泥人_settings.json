@@ -1,0 +1,26 @@
+{
+  "Enable": true,
+  "ZoomMenu": {
+    "EnableZoom": {},
+    "EnableZoomAtLaunch": false,
+    "EnableFastZoom": {},
+    "EnableFastZoomAtLaunch": false,
+    "EnableAtlasZoom": {},
+    "EnableAtlasZoomAtLaunch": false,
+    "KeepAtlasZoom": false,
+    "AtlasZoomValue": {
+      "Value": 1.0
+    },
+    "去除地图迷雾": {}
+  },
+  "QOLMenu": {
+    "EnableNoFog": {},
+    "EnableNoFogAtLaunch": false,
+    "EnableNoBlackBox": {},
+    "EnableNoBlackBoxAtLaunch": false,
+    "EnableBrightness": {},
+    "EnableBrightnessAtLaunch": false,
+    "血条常开": {},
+    "血条常开Launch": false
+  }
+}

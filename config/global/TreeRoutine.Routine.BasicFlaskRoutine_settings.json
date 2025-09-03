@@ -1,0 +1,174 @@
+{
+  "Enable": true,
+  "Debug": false,
+  "hppQuit": {
+    "Value": 0
+  },
+  "espQuit": {
+    "Value": 0
+  },
+  "manaQuit": {
+    "Value": 0
+  },
+  "BossingMode": false,
+  "OneKeyToRun": true,
+  "SMOKEMINE": false,
+  "TicksPerSecond": {
+    "Value": 10
+  },
+  "EnableInHideout": false,
+  "AutoFlask": false,
+  "ForceBubblingAsInstantOnly": false,
+  "ForcePanickedAsInstantOnly": false,
+  "HPPotion": {
+    "Value": 65
+  },
+  "InstantHPPotion": {
+    "Value": 50
+  },
+  "AllocatedSupremeDecadence": false,
+  "ESPotion": {
+    "Value": 65
+  },
+  "InstantESPotion": {
+    "Value": 50
+  },
+  "DisableLifeSecUse": false,
+  "ManaPotion": {
+    "Value": 65
+  },
+  "InstantManaPotion": {
+    "Value": 35
+  },
+  "MinManaFlask": {
+    "Value": 50
+  },
+  "RemAilment": false,
+  "RemFrozen": false,
+  "RemBurning": false,
+  "RemShocked": false,
+  "RemCurse": false,
+  "RemPoison": false,
+  "RemBleed": false,
+  "RemCorruptingBlood": false,
+  "RemMaimed": false,
+  "RemHindered": false,
+  "CorruptCount": {
+    "Value": 10
+  },
+  "CorruptCount2": {
+    "Value": 10
+  },
+  "SpeedFlaskEnable": false,
+  "QuicksilverFlaskEnable": false,
+  "SilverFlaskEnable": false,
+  "MinMsPlayerMoving": {
+    "Value": 1500
+  },
+  "UseWhileCycloning": false,
+  "CycloningMonsterCount": {
+    "Value": 0
+  },
+  "CycloningMonsterDistance": {
+    "Value": 400
+  },
+  "CycloningCountNormalMonsters": false,
+  "CycloningCountMagicMonsters": false,
+  "CycloningCountRareMonsters": false,
+  "CycloningCountUniqueMonsters": false,
+  "CycloningIgnoreFullHealthUniqueMonsters": false,
+  "DefensiveFlaskEnable": false,
+  "HPPercentDefensive": {
+    "Value": 50
+  },
+  "ESPercentDefensive": {
+    "Value": 50
+  },
+  "OffensiveAsDefensiveEnable": false,
+  "DefensiveMonsterCount": {
+    "Value": 0
+  },
+  "DefensiveMonsterDistance": {
+    "Value": 400
+  },
+  "DefensiveCountNormalMonsters": false,
+  "DefensiveCountRareMonsters": false,
+  "DefensiveCountMagicMonsters": false,
+  "DefensiveCountUniqueMonsters": false,
+  "DefensiveIgnoreFullHealthUniqueMonsters": false,
+  "BossingModeHotkey": null,
+  "OneKeyToRunToggle": true,
+  "OneKeyToRunHotKey": {
+    "Value": 186
+  },
+  "OffensiveFlaskEnable": false,
+  "HPPercentOffensive": {
+    "Value": 50
+  },
+  "ESPercentOffensive": {
+    "Value": 50
+  },
+  "OffensiveMonsterCount": {
+    "Value": 0
+  },
+  "OffensiveMonsterDistance": {
+    "Value": 400
+  },
+  "OffensiveCountNormalMonsters": false,
+  "OffensiveCountRareMonsters": false,
+  "OffensiveCountMagicMonsters": false,
+  "OffensiveCountUniqueMonsters": false,
+  "OffensiveIgnoreFullHealthUniqueMonsters": false,
+  "FlaskSettings": [
+    {
+      "Enabled": true,
+      "UseWhenChargesFilled": false,
+      "Hotkey": {
+        "Value": 49
+      },
+      "ReservedUses": {
+        "Value": 0
+      }
+    },
+    {
+      "Enabled": true,
+      "UseWhenChargesFilled": false,
+      "Hotkey": {
+        "Value": 50
+      },
+      "ReservedUses": {
+        "Value": 0
+      }
+    },
+    {
+      "Enabled": true,
+      "UseWhenChargesFilled": false,
+      "Hotkey": {
+        "Value": 51
+      },
+      "ReservedUses": {
+        "Value": 0
+      }
+    },
+    {
+      "Enabled": true,
+      "UseWhenChargesFilled": false,
+      "Hotkey": {
+        "Value": 52
+      },
+      "ReservedUses": {
+        "Value": 0
+      }
+    },
+    {
+      "Enabled": true,
+      "UseWhenChargesFilled": false,
+      "Hotkey": {
+        "Value": 53
+      },
+      "ReservedUses": {
+        "Value": 0
+      }
+    }
+  ]
+}

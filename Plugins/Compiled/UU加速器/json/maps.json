@@ -1,0 +1,744 @@
+{
+    "絕望深淵": {
+        "Biomes": [
+            "Desert",
+            "Mountain",
+            ""
+        ],
+        "ID": "Abyss",
+        "Name": "絕望深淵",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "高山山脊": {
+        "Biomes": [
+            "Mountain",
+            "",
+            ""
+        ],
+        "ID": "Alpine Ridge",
+        "Name": "高山山脊"
+    },
+    "預兆": {
+        "Biomes": [
+            "Forest",
+            "Forest",
+            "Swamp"
+        ],
+        "ID": "Augury",
+        "Name": "預兆",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "餘波": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "Backwash",
+        "Name": "餘波",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "堡壘": {
+        "Biomes": [
+            "Mountain",
+            "Grass",
+            "Desert"
+        ],
+        "ID": "Bastille",
+        "Name": "堡壘"
+    },
+    "血林": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Bloodwood",
+        "Name": "血林",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "盛放田野": {
+        "Biomes": [
+            "Forest",
+            "Grass",
+            ""
+        ],
+        "ID": "BloomingField",
+        "Name": "盛放田野",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "埋葬沼澤": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "BurialBog",
+        "Name": "埋葬沼澤",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "藏身處：運河": {
+        "Biomes": [
+            "Grass",
+            "",
+            ""
+        ],
+        "ID": "CanalHideout",
+        "Name": "藏身處：運河"
+    },
+    "漂流者之所": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "Castaway",
+        "Name": "漂流者之所"
+    },
+    "天然井": {
+        "Biomes": [
+            "Mountain",
+            "",
+            ""
+        ],
+        "ID": "Cenotes",
+        "Name": "天然井",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "秘密通道": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Channel",
+        "Name": "秘密通道",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "小溪": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Creek",
+        "Name": "小溪",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "緋紅海岸": {
+        "Biomes": [
+            "Water",
+            "",
+            ""
+        ],
+        "ID": "CrimsonShores",
+        "Name": "緋紅海岸",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "靜謐陵墓": {
+        "Biomes": [
+            "Mountain",
+            "Grass",
+            "Desert"
+        ],
+        "ID": "Crypt",
+        "Name": "靜謐陵墓",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "腐蝕": {
+        "Biomes": [
+            "Forest",
+            "Forest",
+            "Swamp"
+        ],
+        "ID": "Decay",
+        "Name": "腐蝕",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "廢棄宅邸": {
+        "Biomes": [
+            "Grass",
+            "Forest",
+            "Desert"
+        ],
+        "ID": "DerelictMansion",
+        "Name": "廢棄宅邸"
+    },
+    "棄置之地": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Deserted",
+        "Name": "棄置之地",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "藏身處：殞落": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "FelledHideout",
+        "Name": "藏身處：殞落"
+    },
+    "鍛造": {
+        "Biomes": [
+            "Mountain",
+            "Desert",
+            ""
+        ],
+        "ID": "Forge",
+        "Name": "鍛造",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "堡壘": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Fortress",
+        "Name": "堡壘",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "哥德之城": {
+        "Biomes": [
+            "Grass",
+            "",
+            ""
+        ],
+        "ID": "GothicCity",
+        "Name": "哥德之城",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "海角": {
+        "Biomes": [
+            "Mountain",
+            "",
+            ""
+        ],
+        "ID": "Headland",
+        "Name": "海角",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "隱密石窟": {
+        "Biomes": [
+            "Forest",
+            "Swamp",
+            "Swamp"
+        ],
+        "ID": "HiddenGrotto",
+        "Name": "隱密石窟",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "巢穴": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Hive",
+        "Name": "巢穴",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "獄炎的": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Inferno",
+        "Name": "獄炎的"
+    },
+    "藏身處：石灰岩": {
+        "Biomes": [
+            "Water",
+            "",
+            ""
+        ],
+        "ID": "LimestoneHideout",
+        "Name": "藏身處：石灰岩"
+    },
+    "崇高之巔": {
+        "Biomes": [
+            "Mountain",
+            "",
+            ""
+        ],
+        "ID": "LoftySummit",
+        "Name": "崇高之巔",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "失落之塔": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "LostTowers",
+        "Name": "失落之塔"
+    },
+    "商人營地": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "MerchantsCampsite",
+        "Name": "商人營地",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "礦井": {
+        "Biomes": [
+            "Mountain",
+            "Desert",
+            ""
+        ],
+        "ID": "Mineshaft",
+        "Name": "礦井"
+    },
+    "泥沼": {
+        "Biomes": [
+            "Swamp",
+            "Forest",
+            ""
+        ],
+        "ID": "Mire",
+        "Name": "泥沼",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "禪意時刻": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "MomentofZen",
+        "Name": "禪意時刻",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "魔影墓場": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Necropolis",
+        "Name": "魔影墓場",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "幻景綠洲": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Oasis",
+        "Name": "幻景綠洲",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "外域": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Outlands",
+        "Name": "外域"
+    },
+    "監獄": {
+        "Biomes": [
+            "Grass",
+            "",
+            ""
+        ],
+        "ID": "Penitentiary",
+        "Name": "監獄",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "溪谷": {
+        "Biomes": [
+            "Mountain",
+            "",
+            ""
+        ],
+        "ID": "Ravine",
+        "Name": "溪谷",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "河畔": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Riverside",
+        "Name": "河畔",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "岩池": {
+        "Biomes": [
+            "Swamp",
+            "Swamp",
+            ""
+        ],
+        "ID": "Rockpools",
+        "Name": "岩池"
+    },
+    "銹碗": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Rustbowl",
+        "Name": "銹碗"
+    },
+    "沙吐": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "Sandspit",
+        "Name": "沙吐",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "大草原": {
+        "Biomes": [
+            "Grass",
+            "Desert",
+            ""
+        ],
+        "ID": "Savannah",
+        "Name": "大草原",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "滲漏": {
+        "Biomes": [
+            "Forest",
+            "Forest",
+            "Swamp"
+        ],
+        "ID": "Seepage",
+        "Name": "滲漏",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "藏身處：神殿": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "ShrineHideout",
+        "Name": "藏身處：神殿"
+    },
+    "浮油": {
+        "Biomes": [
+            "Mountain",
+            "Desert",
+            ""
+        ],
+        "ID": "Slick",
+        "Name": "浮油",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "蜘蛛之林": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "SpiderWoods",
+        "Name": "蜘蛛之林",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "蒸氣之泉": {
+        "Biomes": [
+            "Mountain",
+            "Grass",
+            "Forest"
+        ],
+        "ID": "SteamingSprings",
+        "Name": "蒸氣之泉",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "乾草原": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Steppe",
+        "Name": "乾草原",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "硫化洞窟": {
+        "Biomes": [
+            "Mountain",
+            "Swamp",
+            "Desert"
+        ],
+        "ID": "SulphuricCaverns",
+        "Name": "硫化洞窟",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "污水坑": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "Sump",
+        "Name": "污水坑"
+    },
+    "太陽神殿": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "SunTemple",
+        "Name": "太陽神殿",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "沼澤之塔": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "SwampTower",
+        "Name": "沼澤之塔"
+    },
+    "青銅城塞": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "TheCopperCitadel",
+        "Name": "青銅城塞",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "鋼鐵城塞": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "TheIronCitadel",
+        "Name": "鋼鐵城塞",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "岩石城塞": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "TheStoneCitadel",
+        "Name": "岩石城塞",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "高地神塔庇護所": {
+        "Biomes": [],
+        "ID": "TheZigguratRefuge",
+        "Name": "高地神塔庇護所"
+    },
+    "純淨樂園": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "UntaintedParadise",
+        "Name": "純淨樂園",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "瓦爾古城": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "VaalCity",
+        "Name": "瓦爾古城"
+    },
+    "瓦爾工廠": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "VaalFactory",
+        "Name": "瓦爾工廠",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "瓦爾鑄造廠": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "VaalFoundry",
+        "Name": "瓦爾鑄造廠",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "瓦爾村莊": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "VaalVillage",
+        "Name": "瓦爾村莊"
+    },
+    "卡瑪薩秘寶庫": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "VaultsofKamasa",
+        "Name": "卡瑪薩秘寶庫",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "濕地": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "Wetlands",
+        "Name": "濕地",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "垂柳": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Willow",
+        "Name": "垂柳",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "木林": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Woodland",
+        "Name": "木林"
+    }
+}

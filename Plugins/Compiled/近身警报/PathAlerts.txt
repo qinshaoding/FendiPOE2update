@@ -1,0 +1,130 @@
+﻿#Mod Contains;Name in tooltip;RGBA colour code;distance to render, -1 for always, -2 for while valid
+# Lightning Mirage Clone
+Metadata/Monsters/Clone/ShadowLightningClone;克隆体[闪电暴露];FF0000FF;-2;lightning
+# Volatile Core
+Metadata/Monsters/VolatileCore/VolatileCore;自爆火球;FF0000FF;-2;小心火球
+# Delirium
+Metadata/MiscellaneousObjects/Affliction/AfflictionInitiator;迷雾[启动点];8888BBFF;-1;迷雾怪物
+Metadata/Chests/PictChest1;被埋葬的祕寶;FF00FFFF;-1;迷雾怪物
+Metadata/Chests/PictChest2;被埋葬的祕寶;FF00FFFF;-1;迷雾怪物  
+Metadata/Chests/CarverTribeWickerBasket01Landmark;籃子;FF00FFFF;-1;迷雾怪物  
+Metadata/Chests/MossyChest26;箱子;FF00FFFF;-1;迷雾怪物  
+Metadata/Chests/MossyChest17;箱子;FF00FFFF;-1;迷雾怪物  
+Metadata/Chests/TraitorsPassageChest_02;箱子;FF00FFFF;-1;迷雾怪物 
+Metadata/Chests/TraitorsPassageChestLandmark;保險箱;FF00FFFF;-1;迷雾怪物  
+Metadata/Chests/DryRuinPots/DryRuinsUrnChest_01;箱子;FF00FFFF;-1;迷雾怪物  
+Metadata/Chests/FarudinChest_01;箱子;FF00FFFF;-1;迷雾怪物  
+Metadata/Chests/FoundryChests/FoundryChest03;箱子;FF00FFFF;-1;迷雾怪物  
+Metadata/Terrain/Gallows/Act3/3_5/Objects/Landmark_Chest;保險箱;FF00FFFF;-1;迷雾怪物  
+Metadata/Chests/VaalStoneChest01;箱子;FF00FFFF;-1;迷雾怪物  
+Metadata/Chests/CenobiteChest02;祕寶;FF00FFFF;-1;迷雾怪物  
+
+
+# Fossils
+Metadata/Chests/DelveChests/BoundFossilChestDynamite;绑缚化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/AethericFossilChestDynamite;以太化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/PrismaticFossilChestDynamite;五彩化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/SerratedFossilChestDynamite;狼牙化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/FracturedFossilChest;分裂化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/FacetedFossilChest;棱面化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/HollowFossilChest;雕刻化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/GlyphicFossilChest;雕刻化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/CorrodedFossilChest;腐蚀化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/CorrodedFossilChestDynamite;腐蚀化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/BloodstainedFossilChest;溅血化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/SanctifiedFossilChest;圣洁化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/ShudderingFossilChest;震颤化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/BoundFossilChest;绑缚化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/GildedFossilChest;镶金化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/TangledFossilChest;纠缠化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/DenseFossilChest;致密化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/AethericFossilChest;以太化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/JaggedFossilChest;锯齿化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/PrismaticFossilChest;三相化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/PristineFossilChest;原始化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/SerratedFossilChest;狼牙化石;FF7F00FF;-1;化石
+
+Metadata/Chests/DelveChests/LucentFossilChest;透光化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/AberrantFossilChest;畸变化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/FrigidFossilChest;冰冽化石;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/MetallicFossilChest;金属化石残渣;FF7F00FF;-1;化石
+Metadata/Chests/DelveChests/ScorchedFossilChest;炽炎化石;FF7F00FF;-1;化石
+
+
+
+# Strongbox
+Metadata/Chests/StrongBoxes/StrongboxDivination;占卜师的保险箱;FF00FFFF;-1;
+Metadata/Chests/StrongBoxes/Strongbox;保险箱;FFFFFFFF;-2;
+Metadata/Chests/StrongBoxes/Ornate;华丽的保险箱;FFFFFFFF;-2;
+Metadata/Chests/StrongBoxes/Large;大型保险箱;FFFFFFFF;-2;
+Metadata/Chests/StrongBoxes/Jeweller;珠宝匠的保险箱;FFFFFFFF;-2;
+Metadata/Chests/StrongBoxes/Gemcutter;珠宝师的保险箱;FFFFFFFF;-2;
+Metadata/Chests/StrongBoxes/Chemist;药师的保险箱;FFFFFFFF;-2;
+Metadata/Chests/StrongBoxes/CartographerEndMaps;制图师的保险箱;FF00FFFF;-1;
+Metadata/Chests/StrongBoxes/CartographerHighMaps;制图师的保险箱;FF00FFFF;-1;
+Metadata/Chests/StrongBoxes/CartographerMidMaps;制图师的保险箱;FF00FFFF;-1;
+Metadata/Chests/StrongBoxes/CartographerLowMaps;制图师的保险箱;FF00FFFF;-1;
+Metadata/Chests/StrongBoxes/Cartographer;制图师的保险箱;FF00FFFF;-1;
+Metadata/Chests/StrongBoxes/Artisan;工匠师的保险箱;FFFFFFFF;-2;artisan
+Metadata/Chests/StrongBoxes/Arsenal;铁匠的保险箱;FFFFFFFF;-2;
+Metadata/Chests/StrongBoxes/Armory;护甲保险箱;FFFFFFFF;-1;-
+Metadata/Chests/StrongBoxes/ArcanistProphecy;奥术师的保险箱;FF00FFFF;-1;
+Metadata/Chests/StrongBoxes/Arcanist;奥术师的保险箱;FF00FFFF;-1;
+
+#Harvest
+Metadata/Terrain/Leagues/Harvest/Objects/HarvestPortalToggleableReverse; 庄园;00FFFFFF;-1;庄园
+
+# BESTIARY
+Metadata/Monsters/LeagueBestiary/SpiderPlagueBestiary;;暗夜异蛛;FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/GemFrogBestiaryClone;奇美拉幻影; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/GemFrogBestiary;深海奇美拉; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/LynxBestiary;大地巨型猞猁; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/Avians/MarakethBirdBestiary;苍空凶鸟; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/WolfBestiary;大地巨狼; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/SpiderPlatedBestiary;暗夜混毒魔蛛; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/CrabSpiderBestiary;深海蜘蛛蟹; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/HellionBestiary2;冰霜地狱犬; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/TigerBestiary;大地巨虎; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/MonkeyBloodBestiary;大地巨猿; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/VultureBestiary;苍空秃鹰; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/FrogBestiary;深海裂齿兽; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/CrabParasiteLargeBestiary_;深海野蛮巨蟹; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/SnakeBestiary1;苍空眼镜蛇; FFFF00FF;-1;魔物
+Metadata/Monsters/LeagueBestiary/SnakeBestiary2;苍空毒血蛇; FFFF00FF;-1;魔物
+
+
+
+#delve
+Metadata/Chests/DelveChests/PathCurrency;被遗忘的通货;FF00FFFF;-1;
+Metadata/Chests/DelveChests/PathGeneric;被遗忘的战利品;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/OffPathWeapon;失落的军备;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/OffPathTrinkets;失落的珠宝;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/OffPathArmour;失落的护甲;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/OffPathCurrency;失落的通货;FF00FFFF;-1;currency
+Metadata/Chests/DelveChests/DelveChestCurrency;被遗忘的通货;FF00FFFF;-1;currency
+Metadata/Chests/DelveChests/OffPathGeneric;失落的战利品;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DynamiteArmour;隐秘的护甲;FF00FFFF;-1;
+Metadata/Chests/DelveChests/DelveChestSpecialUniqueMinion;邪恶宝藏[传奇];FF00FFFF;-1;
+Metadata/Chests/DelveChests/DelveChestSpecialTrinketsMinion;邪恶珠宝;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveChestSpecialArmourMinion;邪恶护甲;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveAzuriteVein1;蓝晶矿;FF00FFFF;-1;
+Metadata/Chests/DelveChests/DelveMiningSuppliesDynamite;炸药箱;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveMiningSuppliesFlares;照明弹;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveChestArmour1;被遗弃的护甲;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveChestArmourCorrupted;扭曲的护甲;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveChestArmourMovementSpeed;旅人的护甲;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveChestArmourMultipleResists;抗性护甲;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveChestArmourOfCrafting;多用的护甲;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveChestWeapon1;被遗弃的军备;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveChestWeaponPhysicalDamage;沉重的军备;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveChestWeaponCorrupted;扭曲的军备;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/Resonator;共振器仓库;FF00FFFF;-1;
+Metadata/Chests/DelveChests/DelveChestTrinkets1;被遗弃的珠宝;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveChestTrinketsRing;被遗弃的戒指;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveChestArmourAtlas;不寻常的护甲;FFFFFFFF;-1;
+Metadata/Chests/DelveChests/DelveChestTrinketsAmulet;被遗弃的项链;FFFFFFFF;-1;
+#EXPEDITION
+
+Metadata/Terrain/Leagues/Lake/Objects/StampingDevice;镜像桌台;FFFFFFFF;-1;
+
+Metadata/NPC/League/Azmeri/UniqueDealer;无名先知;FFFFFFFF;-1;

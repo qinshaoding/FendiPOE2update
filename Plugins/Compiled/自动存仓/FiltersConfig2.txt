@@ -1,0 +1,227 @@
+@"// Each line in the filter looks like the following
+//     Name:      boolProperty,numericProperty        :Group
+//
+// Name - An identifier for the filter. Must be unique from other names.
+// Properties - The actual filtering of available informaion.
+// Group - A category the filter belongs to. Filters that belong to the 
+//         same group share the same group name.
+//
+// Available properties with descriptions
+//  String (name) properties:
+//      classname     
+//          Item class name.
+//      basename      
+//          Item base type name.
+//      path
+//          Item record path.
+//      name
+//          Item name. Either base type name, unique name, or generated rare name.
+//      desc
+//          Item description.
+//
+//  Numerical properties:
+//      itemquality
+//          Item quality.
+//      rarity
+//          Rarity. Values are Normal, Magic, Rare, Unique, Gem, Currency, Quest, Prophecy
+//      ilvl
+//          Itemlevel. A value from 1 to 100.
+//      width
+//          The number of inventory cells and item consumes horizontally (x-axis).
+//      height
+//          The number of inventory cells and item consumes vertically (y-axis).
+//      tier
+//          Map Tier. A value from 1 to 16.
+//      numberofsockets
+//          Number of sockets.
+//      veiled
+//          Number of unveiled mods.
+//      fractured
+//          Number of fractured mods.
+//      scourgedtier
+//          Tier of scourged corruption on an item.
+//      unspentcorruption
+//          Amount of corruption absorbed by item that can be used by the crucible.
+//
+//  Boolean properties:
+//      identified
+//      corrupted
+//      influenced
+//          True for an item with any of the following 6 influences.
+//      Elder
+//      Shaper
+//      Crusader
+//      Hunter
+//      Redeemer
+//      Warlord
+//      blightedMap
+//          Map is infected with blight. (Not 'Area has blight')
+//      elderGuardianMap
+//          Map with Elder Influence
+//      deliriumrewards
+//
+//  Affinity properties:
+//      affinity
+//          Will drop item in the current tab and let the in-game affinity system redirect to correct tab.
+//      shifting
+//          Bypasses affinity tab setting in game by ctrl+shift+clicking item into tab after shifting to it.
+//
+//Available operations:
+//  String (name) operations:
+//      !=  (not equal)
+//      =   (equal)
+//      ^   (contains)
+//      !^  (not contains)
+//    
+//  Numerical operations:
+//      !=  (not equal)
+//      =   (equal)
+//      >   (greater than)
+//      <   (less than)
+//      <=  (less than or equal)
+//      >=  (greater than or equal)
+//    
+//  Boolean operations:
+//      !   (not/invert)
+//
+// Below are basic filters. Commenting filters prevents it from being processed.
+//
+// 未鉴定崇高石配方
+// 
+EX2-双手武器:    influenced,!identified,Rarity=Rare,ilvl>=60,ClassName^Two Hand|ClassName=Bow|ClassName=Staff                                                            :崇高石配方
+EX2-单手武器:    influenced,!identified,Rarity=Rare,ilvl>=60,ClassName^One Hand|ClassName=Sceptre|ClassName=Wand|ClassName=Dagger|ClassName=Claw|ClassName=Rune Dagger   :崇高石配方
+EX2-盾和箭袋:     influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Shield|ClassName=Quiver                                                                           :崇高石配方
+EX2-护身符:      influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Amulet                                                                                            :崇高石配方
+EX2-戒指:        influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Ring                                                                                              :崇高石配方
+EX2-腰带:        influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Belt                                                                                              :崇高石配方
+EX2-头盔:      influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Helmet                                                                                            :崇高石配方
+EX2-护甲:       influenced,!identified,Rarity=Rare,ilvl>=60,numberofsockets!=6,ClassName=Body Armour                                                                    :崇高石配方
+EX2-鞋子:        influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Boots                                                                                             :崇高石配方
+EX2-手套:       influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Gloves                                                                                            :崇高石配方
+//
+// 已鉴定崇高石配方
+//
+EX1-双手武器:    influenced,identified,Rarity=Rare,ilvl>=60,ClassName^Two Hand|ClassName=Bow|ClassName=Staff                                                             :崇高石配方(鉴定物品)
+EX1-单手武器:    influenced,identified,Rarity=Rare,ilvl>=60,ClassName^One Hand|ClassName=Sceptre|ClassName=Wand|ClassName=Dagger|ClassName=Claw|ClassName=Rune Dagger    :崇高石配方(鉴定物品)
+EX1-盾和箭袋:     influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Shield|ClassName=Quiver                                                                            :崇高石配方(鉴定物品)
+EX1-护身符:      influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Amulet                                                                                             :崇高石配方(鉴定物品)
+EX1-戒指:        influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Ring                                                                                               :崇高石配方(鉴定物品)
+EX1-腰带:        influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Belt                                                                                               :崇高石配方(鉴定物品)
+EX1-头盔:      influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Helmet                                                                                             :崇高石配方(鉴定物品)
+EX1-护甲:       influenced,identified,Rarity=Rare,ilvl>=60,numberofsockets!=6,ClassName=Body Armour                                                                     :崇高石配方(鉴定物品)
+EX1-鞋子:        influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Boots                                                                                              :崇高石配方(鉴定物品)
+EX1-手套:       influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Gloves                                                                                             :崇高石配方(鉴定物品)
+//
+// 未鉴定混沌石配方
+//
+CR2-双手武器:    !influenced,!identified,Rarity=Rare,ilvl>=60,ClassName^Two Hand|ClassName=Bow|ClassName=Staff                                                           :混沌石配方
+CR2-单手武器:    !influenced,!identified,Rarity=Rare,ilvl>=60,ClassName^One Hand|ClassName=Sceptre|ClassName=Wand|ClassName=Dagger|ClassName=Claw|ClassName=Rune Dagger  :混沌石配方
+CR2-盾和箭袋:     !influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Shield|ClassName=Quiver                                                                          :混沌石配方
+CR2-护身符:      !influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Amulet                                                                                           :混沌石配方
+CR2-戒指:        !influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Ring                                                                                             :混沌石配方
+CR2-腰带:        !influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Belt                                                                                             :混沌石配方
+CR2-头盔:      !influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Helmet                                                                                           :混沌石配方
+CR2-护甲:       !influenced,!identified,Rarity=Rare,ilvl>=60,numberofsockets!=6,ClassName=Body Armour                                                                   :混沌石配方
+CR2-鞋子:        !influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Boots                                                                                            :混沌石配方
+CR2-手套:       !influenced,!identified,Rarity=Rare,ilvl>=60,ClassName=Gloves                                                                                           :混沌石配方
+//
+// 已鉴定混沌石配方
+//
+CR1-双手武器:    influenced,identified,Rarity=Rare,ilvl>=60,ClassName^Two Hand|ClassName=Bow|ClassName=Staff                                                             :混沌石配方(鉴定物品)
+CR1-单手武器:    influenced,identified,Rarity=Rare,ilvl>=60,ClassName^One Hand|ClassName=Sceptre|ClassName=Wand|ClassName=Dagger|ClassName=Claw|ClassName=Rune Dagger    :混沌石配方(鉴定物品)
+CR1-盾和箭袋:     influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Shield|ClassName=Quiver                                                                            :混沌石配方(鉴定物品)
+CR1-护身符:      influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Amulet                                                                                             :混沌石配方(鉴定物品)
+CR1-戒指:        influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Ring                                                                                               :混沌石配方(鉴定物品)
+CR1-腰带:        influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Belt                                                                                               :混沌石配方(鉴定物品)
+CR1-头盔:      influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Helmet                                                                                             :混沌石配方(鉴定物品)
+CR1-护甲:       influenced,identified,Rarity=Rare,ilvl>=60,numberofsockets!=6,ClassName=Body Armour                                                                     :混沌石配方(鉴定物品)
+CR1-鞋子:        influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Boots                                                                                              :混沌石配方(鉴定物品)
+CR1-手套:       influenced,identified,Rarity=Rare,ilvl>=60,ClassName=Gloves                                                                                             :混沌石配方(鉴定物品)
+//
+// 暗金物品
+//
+UNI-双手武器:   identified,Rarity=Unique,ClassName^Two Hand|ClassName=Bow|ClassName=Staff                                                                                :暗金物品
+UNI-单手武器:   identified,Rarity=Unique,ClassName^One Hand|ClassName=Sceptre|ClassName=Wand|ClassName=Dagger|ClassName=Claw|ClassName=Rune Dagger                       :暗金物品
+UNI-盾和箭袋:    identified,Rarity=Unique,ClassName=Shield|ClassName=Quiver                                                                                               :暗金物品
+UNI-护身符:     identified,Rarity=Unique,ClassName=Amulet                                                                                                                :暗金物品
+UNI-戒指:       identified,Rarity=Unique,ClassName=Ring                                                                                                                  :暗金物品
+UNI-腰带:       identified,Rarity=Unique,ClassName=Belt                                                                                                                  :暗金物品
+UNI-头盔:       identified,Rarity=Unique,ClassName=Helmet                                                                                                                :暗金物品
+UNI-护甲:      identified,Rarity=Unique,ClassName=Body Armour                                                                                                           :暗金物品
+UNI-鞋子:       identified,Rarity=Unique,ClassName=Boots                                                                                                                 :暗金物品
+UNI-手套:      identified,Rarity=Unique,ClassName=Gloves                                                                                                                :暗金物品
+UNI-药剂:      identified,Rarity=Unique,ClassName^Flask                                                                                                                 :暗金物品
+//
+// 药剂
+//
+品质药剂(>19):      ClassName^Flask,ItemQuality>19                                                                                                                           :药剂
+品质药剂(>13):      ClassName^Flask,ItemQuality>13                                                                                                                           :药剂
+药剂(>6):       ClassName^Flask,ItemQuality>6                                                                                                                            :药剂
+品质药剂:        ClassName^Flask,ItemQuality>0                                                                                                                            :药剂
+其他药剂:      ClassName^Flask                                                                                                                                          :药剂
+//
+// 技能石
+//
+强辅:        ClassName^Skill Gem,Name^强辅                                                                                                                        :技能石
+赋予三兄弟:         ClassName^Skill Gem,Name=Empower|Name=Enhance|Name=Enlighten                                                                                             :技能石
+瓦尔技能石:       ClassName^Skill Gem,BaseName^瓦尔                                                                                                                       :技能石
+Q20 技能石:        ClassName^Skill Gem,ItemQuality>19                                                                                                                       :技能石
+Q14 技能石:        ClassName^Skill Gem,ItemQuality>14                                                                                                                       :技能石
+Q7 技能石:         ClassName^Skill Gem,ItemQuality>6                                                                                                                        :技能石
+其他技能石:        ClassName^Skill Gem                                                                                                                                      :技能石
+//
+// 影响物品
+//
+裂界者:           Elder                                                                                                                                                    :影响物品
+塑界者:          Shaper                                                                                                                                                   :影响物品
+圣战者:        Crusader                                                                                                                                                 :影响物品
+狩猎者:          Hunter                                                                                                                                                  :影响物品
+救赎者:        Redeemer                                                                                                                                                 :影响物品
+督军:         Warlord                                                                                                                                                  :影响物品
+
+// 珠宝
+//
+星团:        path^JewelPassiveTree                                                                                                                                    :珠宝
+深渊珠宝:           ClassName=深渊珠宝                                                                                                                                     :珠宝
+普通珠宝:          Rarity!=Unique,BaseName=赤红珠宝|BaseName=翠绿珠宝|BaseName=钴蓝珠宝                                                                      :珠宝
+//
+// 杂项
+//
+裂隙石:       ClassName=StackableCurrency,BaseName^裂隙石                                                                                                         :杂项
+浸血法器:    BaseName=浸血法器                                                                                                                             :杂项
+裂隙戒指:     ClassName=Ring,BaseName=裂隙戒指                                                                                                                      :杂项
+费斯特的透镜:    ClassName=StackableCurrency,BaseName^费斯特                                                                                                             :杂项
+夺宝装备: path^HeistEquipment                                                                                                                                      :杂项
+孕育石:       ClassName^Incubator                                                                                                                                      :杂项
+猎魔诱饵:            BaseName^之诱                                                                                                                                           :杂项
+未知的命运卡:    BaseName=未知的命运卡                                                                                                                                    :杂项
+加密物品:          Veiled>0                                                                                                                                                 :杂项
+//
+// 特殊地图
+//
+菌潮地图:   blightedMap                                                                                                                                              :特殊地图
+裂界者地图:      elderGuardianMap                                                                                                                                         :特殊地图
+阿佐亚特编年史:      BaseName=阿佐亚特编年史                                                                                                                            :特殊地图
+贤主之邀:     ClassName=MiscMapItem,BaseName^贤主之邀                                                                                                                :特殊地图
+尘封圣物厅钥匙:  BaseName=尘封圣物厅钥匙                                                                                                                          :特殊地图
+侦察报告:   ClassName=StackableCurrency|BaseName^罗盘|BaseName^侦查报告                                                                                                                         :特殊地图
+T21门票:  BaseName=极星的邀请|BaseName=炽焰的邀请|BaseName=蠕动的邀请|BaseName=咆哮的邀请                                                                                                                             :特殊地图
+// Default Tabs
+//      Stashie will scroll to tabs and drop items.
+//
+碎片:          ClassName=StackableCurrency,BaseName^碎片                                                                                                         :默认物品
+菌潮物品:          path^Mushrune|blightedMap                                                                                                                                :默认物品
+迷雾物品:        path^CurrencyAffliction                                                                                                                                  :默认物品
+矿洞物品:           path^CurrencyDelveCrafting|path^DelveStackableSocketableCurrency                                                                                         :默认物品
+挖坟物品:      path^ExpeditionVendorCurrencyFaction|path^CurrencyRefresh|ClassName=ExpeditionLogbook                                                                    :默认物品
+夺宝物品:           ClassName=HeistContract|ClassName=HeistBlueprint                                                                                                         :默认物品
+军团物品:          path^CurrencyLegion                                                                                                                                      :默认物品
+灾变物品:       ClassName=MetamorphosisDNA|path^CurrencyJewelleryQuality                                                                                                 :默认物品
+命运卡:      ClassName=DivinationCard                                                                                                                                 :默认物品
+精华:         BaseName^精华|BaseName^腐化器皿                                                                                                                        :默认物品
+地图碎片:        ClassName=MapFragment|BaseName^Splinter                                                                                                                  :默认物品
+暗金物品:         identified,Rarity=Unique,ClassName!=Map                                                                                                                  :默认物品
+地图:            ClassName=Map,!blightedMap,!elderGuardianMap                                                                                                             :默认物品
+通货:        ClassName=StackableCurrency,path!^Essence,BaseName!^Remnant,path!^CurrencyDelveCrafting,BaseName!^Splinter,Path!^CurrencyItemisedProphecy,Path!^CurrencyAfflictionOrb,Path!^Mushrune  :普通通货
+
+护卫:            BaseName^护卫                                                                                                      :S19护卫

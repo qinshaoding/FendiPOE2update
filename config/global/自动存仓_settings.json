@@ -1,0 +1,561 @@
+{
+  "AllStashNames": [
+    "Ignore",
+    "1",
+    "6",
+    "4",
+    "7",
+    "8",
+    "12",
+    "10",
+    "13",
+    "2",
+    "3",
+    "11",
+    "一R",
+    "15"
+  ],
+  "CustomFilterOptions": {
+    "普通珠宝": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "裂隙石": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "最後通牒雕刻": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "催化剂": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "裂痕碑牌": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "核心": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "碎片": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "迷雾物品": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "炸坟物品": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "精华": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "地图碎片": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "暗金物品": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "地图": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "通货": {
+      "Value": "6",
+      "Index": 1
+    },
+    "EX2-双手武器": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX2-单手武器": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX2-盾和箭袋": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX2-护身符": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX2-戒指": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX2-腰带": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX2-头盔": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX2-护甲": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX2-鞋子": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX2-手套": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX1-双手武器": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX1-单手武器": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX1-盾和箭袋": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX1-护身符": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX1-戒指": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX1-腰带": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX1-头盔": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX1-护甲": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX1-鞋子": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "EX1-手套": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR2-双手武器": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR2-单手武器": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR2-盾和箭袋": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR2-护身符": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR2-戒指": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR2-腰带": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR2-头盔": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR2-护甲": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR2-鞋子": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR2-手套": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR1-双手武器": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR1-单手武器": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR1-盾和箭袋": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR1-护身符": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR1-戒指": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR1-腰带": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR1-头盔": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR1-护甲": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR1-鞋子": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "CR1-手套": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "UNI-双手武器": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "UNI-单手武器": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "UNI-盾和箭袋": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "UNI-护身符": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "UNI-戒指": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "UNI-腰带": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "UNI-头盔": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "UNI-护甲": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "UNI-鞋子": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "UNI-手套": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "UNI-药剂": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "品质药剂(>19)": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "品质药剂(>13)": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "药剂(>6)": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "品质药剂": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "其他药剂": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "强辅": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "赋予三兄弟": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "瓦尔技能石": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "Q20 技能石": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "Q14 技能石": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "Q7 技能石": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "其他技能石": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "裂界者": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "塑界者": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "圣战者": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "狩猎者": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "救赎者": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "督军": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "星团": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "深渊珠宝": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "浸血法器": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "裂隙戒指": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "费斯特的透镜": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "夺宝装备": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "孕育石": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "猎魔诱饵": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "未知的命运卡": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "加密物品": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "菌潮地图": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "裂界者地图": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "阿佐亚特编年史": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "贤主之邀": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "尘封圣物厅钥匙": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "侦察报告": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "T21门票": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "菌潮物品": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "矿洞物品": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "挖坟物品": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "夺宝物品": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "军团物品": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "灾变物品": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "命运卡": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "护卫": {
+      "Value": "忽略",
+      "Index": -1
+    }
+  },
+  "CustomRefillOptions": {
+    "Portal Scrolls": {
+      "Value": 15
+    },
+    "Scrolls of Wisdom": {
+      "Value": 15
+    }
+  },
+  "DropHotkey": {
+    "Value": 114
+  },
+  "使用发包": true,
+  "SwitchFilterhotkey": {
+    "Value": 115
+  },
+  "ExtraDelay": {
+    "Value": 0
+  },
+  "HoverItemDelay": {
+    "Value": 5
+  },
+  "StashItemDelay": {
+    "Value": 5
+  },
+  "BlockInput": false,
+  "VisitTabWhenDone": false,
+  "TabToVisitWhenDone": {
+    "Value": 0
+  },
+  "BackToOriginalTab": false,
+  "CurrencyStashTab": {
+    "Value": "1",
+    "Index": 0
+  },
+  "AllowHaveMore": false,
+  "AlwaysUseArrow": false,
+  "Enable": true,
+  "IgnoredCells": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

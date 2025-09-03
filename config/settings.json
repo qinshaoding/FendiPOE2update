@@ -1,0 +1,98 @@
+{
+  "Enable": {
+    "Value": false
+  },
+  "EmptyMain": {},
+  "RefreshArea": {},
+  "Profiles": {
+    "Value": "global"
+  },
+  "MainMenuKeyToggle": {
+    "Value": 123
+  },
+  "ForceForeground": {
+    "Value": true
+  },
+  "DisableBlackBarAdjustment": {
+    "Value": false
+  },
+  "EmptyMessages": {},
+  "ShowInformationMessages": {
+    "Value": true
+  },
+  "ShowErrorMessages": {
+    "Value": true
+  },
+  "ShowDebugMessages": {
+    "Value": true
+  },
+  "ShowDebugLog": {
+    "Value": true
+  },
+  "ShowDebugWindow": {
+    "Value": true
+  },
+  "CollectDebugInformation": {
+    "Value": false
+  },
+  "EmptyPerfomance": {},
+  "Threads": {
+    "Value": 1
+  },
+  "VSync": {
+    "Value": true
+  },
+  "DynamicFPS": {
+    "Value": true
+  },
+  "DynamicPercent": {
+    "Value": 150
+  },
+  "MinimalFpsForDynamic": {
+    "Value": 150
+  },
+  "TargetFps": {
+    "Value": 200
+  },
+  "TargetParallelFPS": {
+    "Value": 500
+  },
+  "EntitiesUpdate": {
+    "Value": 200
+  },
+  "ParseServerEntities": {
+    "Value": false
+  },
+  "CollectEntitiesInParallelWhenMoreThanX": {
+    "Value": false
+  },
+  "LimitDrawPlot": {
+    "Value": 0.2
+  },
+  "CriticalTimeForPlugin": {
+    "Value": 100
+  },
+  "EmptyMultithread": {},
+  "MultiThreadLoadPlugins": {
+    "Value": false
+  },
+  "CoroutineMultiThreading": {
+    "Value": false
+  },
+  "AddedMultiThread": {
+    "Value": false
+  },
+  "ParseEntitiesInMultiThread": {
+    "Value": false
+  },
+  "EmptyMiscellaneous": {},
+  "Font": {
+    "Value": "bb4171:17"
+  },
+  "FontSize": {
+    "Value": 13
+  },
+  "Volume": {
+    "Value": 100
+  }
+}

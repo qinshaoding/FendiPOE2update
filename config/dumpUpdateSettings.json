@@ -1,0 +1,12 @@
+{
+  "Enable": {
+    "Value": true
+  },
+  "Username": {
+    "Value": "username"
+  },
+  "Password": {
+    "Value": "password"
+  },
+  "Plugins": []
+}

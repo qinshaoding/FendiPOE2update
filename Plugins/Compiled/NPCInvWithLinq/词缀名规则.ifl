@@ -1,0 +1,10 @@
+BaseName.Contains("Invitation")
+
+BaseName.Contains("Cortex")
+
+BaseName.Contains("盾")
+
+BaseName.Contains("深深深")
+
+ModsInfo.ItemMods.Any(Name == "MapAreaContainsEssences") // map has extra essence implicit
+

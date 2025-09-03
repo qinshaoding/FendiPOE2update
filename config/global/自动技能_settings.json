@@ -1,0 +1,14 @@
+{
+  "Enable": false,
+  "热键": {
+    "Value": 0
+  },
+  "热键2": false,
+  "自动移动": false,
+  "自动拾取": {
+    "Value": 0
+  },
+  "monstersize": {
+    "Value": 0
+  }
+}
